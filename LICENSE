@@ -18,22 +18,4 @@ AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
 ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <https://unlicense.org/>
-
----
-
-WHAT THIS COVERS
-
-The original work in this repository: the runtime in `runtime/`, the tools in
-`tools/`, the analysis data in `analysis/` and the documentation in `docs/`.
-Take it, use it, sell it, fork it. No attribution required.
-
-WHAT IT CANNOT COVER
-
-**The game.** Tiny Toon Adventures: ACME All-Stars is (C) Konami and Warner
-Bros. No part of it is distributed here, and no dedication in this file changes
-anything about it. See LEGAL.md.
-
-**Third-party work used for verification.** Musashi, Nuked-OPN2, vasm, SDL3 and
-Capstone each carry their own license, which continues to apply to them. See
-CREDITS.md.
+For more information, please refer to <http://unlicense.org/>

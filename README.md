@@ -27,6 +27,19 @@ byte-identical reassembly       the emitted assembly rebuilds the ROM exactly
 
 ---
 
+## Features
+
+- The whole game, playable start to finish, built from your own ROM
+- Two players on one keyboard or with two gamepads, any controller
+- Remappable keyboard keys and gamepad buttons
+- Picture modes: pixel-exact, fill window, 4:3 CRT shape; windowed or fullscreen
+- Original 50 Hz PAL timing and stereo FM sound from the game's own driver
+- RecompLauncher support: one-step setup and settings on the game's page
+- Mods: drop a DLL in `mods/`
+- Fast forward and pause
+
+---
+
 ## Status
 
 The game is **playable start to finish**. Story mode and every stand-alone mode
@@ -125,16 +138,30 @@ You need Python 3.9+, the `capstone` module, a C compiler, `make`, and SDL3
 
 ## Controls
 
+The defaults; all of them can be changed (see below).
+
+| Mega Drive | Keyboard, player 1 | Keyboard, player 2 | Xbox pad |
+|---|---|---|---|
+| D-pad | `W` `A` `S` `D` | arrow keys | D-pad / left stick |
+| A | `J` | numpad `1` | X |
+| B | `K` | numpad `2` | A |
+| C | `L` | numpad `3` | B |
+| Start | `Enter` | numpad `0` | Start / Back |
+
 | | |
 |---|---|
-| Player 1 | `WASD`, `J`=A `K`=B `L`=C, `Enter`=Start |
-| Player 2 | arrow keys, numpad `1`=A `2`=B `3`=C, numpad `0`=Start |
-| Gamepad | any controller, detected on connect, one per player |
 | `F1` | pause |
 | `F2` | fast-forward (~11x, muted while active) |
 | `F3` | image mode: 1:1 exact / 1:1 filling the window / 4:3 |
 | `F4` | swap controller ports (player 1 <-> player 2) |
-| `Esc` | quit |
+| `Esc`, or L+R+Start held for a second on a pad | quit |
+
+**Remapping.** Every key and pad button can be changed in `tinytoon.toml`, next
+to the program: `p1_up` … `p2_start` take one or more SDL key names
+(`p1_a = "Space, Z"`), and `pad_a` … `pad_start` take pad buttons (`a b x y`,
+`leftshoulder`, `righttrigger`…). An empty value turns a key off. RecompLauncher
+offers ready-made keyboard and pad layouts on the game's page, and writes the
+same file. The release's `README.txt` lists every setting.
 
 The split is physical: player 1 takes the left half of the keyboard, player 2
 the right. Neither reaches into the other's region.

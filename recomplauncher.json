@@ -1,7 +1,7 @@
 {
   "$schema": "https://recomplauncher.com/schema/recomplauncher.json",
   "format": 1,
-  "name": "Tiny Toon Adventures: ACME All-Stars",
+  "name": "Tiny Toon AAA",
   "repo": "rafarvns/Tiny-Toon-Acme-All-Stars---Native",
   "game": {
     "kind": "iso",
