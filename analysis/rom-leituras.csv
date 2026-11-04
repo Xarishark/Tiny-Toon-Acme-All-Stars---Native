@@ -1,0 +1,1967 @@
+start,end,kind,confianca,reader,vias,evidence
+$00000C,$000023,dado,execucao,sub_008148,1,lido pela CPU em sub_008148
+$000010,$000021,dado?,inferido,sub_008148,0,buraco cercado dos dois lados por sub_008148
+$000120,$00014F,preenchimento,constante,-,0,corrida de $20 nunca lida
+$000173,$00017F,preenchimento,constante,-,0,corrida de $20 nunca lida
+$000192,$00019F,preenchimento,constante,-,0,corrida de $20 nunca lida
+$0001B0,$0001EF,preenchimento,constante,-,0,corrida de $20 nunca lida
+$0001F1,$0001FF,preenchimento,constante,-,0,corrida de $20 nunca lida
+$0004B6,$0004F5,dado,execucao,sub_0004A8,1,lido pela CPU em sub_0004A8
+$0004EA,$0004F1,dado?,inferido,sub_0004A8,0,buraco cercado dos dois lados por sub_0004A8
+$000656,$00065D,preenchimento,constante,-,0,corrida de $FF nunca lida
+$000B34,$000B45,dado,execucao,sub_000B10,1,lido pela CPU em sub_000B10
+$000EDC,$000EFB,dado,execucao,sub_000DBC,1,lido pela CPU em sub_000DBC
+$000EFC,$000F1D,dado,execucao,sub_000EAE,1,lido pela CPU em sub_000EAE
+$000F1E,$001314,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$00154A,$001555,dado,execucao,sub_00152A,1,lido pela CPU em sub_00152A
+$001690,$001697,preenchimento,constante,-,0,corrida de $00 nunca lida
+$001910,$001921,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$0019BC,$0019C3,dado,execucao,sub_00197E,1,lido pela CPU em sub_00197E
+$002322,$0023AF,dado,execucao,sub_002274,1,lido pela CPU em sub_002274
+$002334,$00233D,dado?,inferido,sub_002274,0,buraco cercado dos dois lados por sub_002274
+$002372,$002375,dado?,inferido,sub_002274,0,buraco cercado dos dois lados por sub_002274
+$002394,$002397,dado?,inferido,sub_002274,0,buraco cercado dos dois lados por sub_002274
+$0023B0,$0024A7,dado?,inferido,sub_002274,0,buraco cercado dos dois lados por sub_002274
+$0024A8,$00252E,dado,execucao,sub_002274,1,lido pela CPU em sub_002274
+$00252F,$00256F,dado?,inferido,sub_002274,0,buraco cercado dos dois lados por sub_002274
+$002570,$0028D4,dado,execucao,sub_002274,1,lido pela CPU em sub_002274
+$0026FE,$00270F,dado?,inferido,sub_002274,0,buraco cercado dos dois lados por sub_002274
+$002720,$002743,dado?,inferido,sub_002274,0,buraco cercado dos dois lados por sub_002274
+$002752,$00275F,dado?,inferido,sub_002274,0,buraco cercado dos dois lados por sub_002274
+$0027C3,$0027CD,dado?,inferido,sub_002274,0,buraco cercado dos dois lados por sub_002274
+$002819,$002839,dado?,inferido,sub_002274,0,buraco cercado dos dois lados por sub_002274
+$0028DA,$00333D,dado?,inferido,sub_0280E8,0,buraco cercado dos dois lados por sub_0280E8
+$003072,$003079,preenchimento,constante,-,0,corrida de $88 nunca lida
+$003DB4,$003DBF,dado,execucao,sub_003DA6,1,lido pela CPU em sub_003DA6
+$003FDE,$003FF1,dado,execucao,sub_003FAE,1,lido pela CPU em sub_003FAE
+$0041B4,$004253,dado,execucao,sub_004154,1,lido pela CPU em sub_004154
+$004254,$0042A3,dado,execucao,sub_0040BC,1,lido pela CPU em sub_0040BC
+$0042D8,$0042E1,dado,execucao,sub_0042A4,1,lido pela CPU em sub_0042A4
+$00437A,$004389,dado,execucao,sub_00435A,1,lido pela CPU em sub_00435A
+$00437C,$004380,dado?,inferido,sub_00435A,0,buraco cercado dos dois lados por sub_00435A
+$004384,$004388,dado?,inferido,sub_00435A,0,buraco cercado dos dois lados por sub_00435A
+$004424,$004437,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$0045BA,$0046B9,dado,execucao,SinMul,1,lido pela CPU em SinMul
+$00476C,$00486B,dado,execucao,sub_00474E,1,lido pela CPU em sub_00474E
+$004998,$004B91,dado,execucao,sub_00495A,1,lido pela CPU em sub_00495A
+$004C30,$004C87,dado,execucao,sub_004B92,1,lido pela CPU em sub_004B92
+$004C34,$004C49,dado?,inferido,sub_004B92,0,buraco cercado dos dois lados por sub_004B92
+$004C34,$004C49,preenchimento,constante,-,0,corrida de $00 nunca lida
+$004C54,$004C5D,dado?,inferido,sub_004B92,0,buraco cercado dos dois lados por sub_004B92
+$004C54,$004C5D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$004C60,$004C63,dado?,inferido,sub_004B92,0,buraco cercado dos dois lados por sub_004B92
+$004C66,$004C85,dado?,inferido,sub_004B92,0,buraco cercado dos dois lados por sub_004B92
+$004C6A,$004C85,preenchimento,constante,-,0,corrida de $00 nunca lida
+$004C90,$004CAD,preenchimento,constante,-,0,corrida de $00 nunca lida
+$004D40,$004D47,dado,execucao,sub_004D04,1,lido pela CPU em sub_004D04
+$004D48,$004D57,dado,execucao,sub_004D0A,1,lido pela CPU em sub_004D0A
+$004DE8,$004DEF,dado,execucao,sub_004D7C,1,lido pela CPU em sub_004D7C
+$004DF0,$004E13,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$004FB2,$004FD9,dado,execucao,sub_004F7E,1,lido pela CPU em sub_004F7E
+$004FC2,$004FC5,dado?,inferido,sub_004F7E,0,buraco cercado dos dois lados por sub_004F7E
+$004FC8,$004FCD,dado?,inferido,sub_004F7E,0,buraco cercado dos dois lados por sub_004F7E
+$00521E,$005225,dado,execucao,sub_0051CC,1,lido pela CPU em sub_0051CC
+$005226,$00522D,dado,execucao,sub_005134,1,lido pela CPU em sub_005134
+$005474,$005483,dado,execucao,sub_005402,1,lido pela CPU em sub_005402
+$005870,$00589F,dado,execucao,sub_00585E,1,lido pela CPU em sub_00585E
+$005A06,$005A1D,dado,execucao,sub_00596A,1,lido pela CPU em sub_00596A
+$005C5E,$005E91,dado,execucao,sub_005B84,1,lido pela CPU em sub_005B84
+$005C6A,$005C75,dado?,inferido,sub_005B84,0,buraco cercado dos dois lados por sub_005B84
+$005C82,$005C8D,dado?,inferido,sub_005B84,0,buraco cercado dos dois lados por sub_005B84
+$005CB2,$005CBD,dado?,inferido,sub_005B84,0,buraco cercado dos dois lados por sub_005B84
+$005CFA,$005D11,dado?,inferido,sub_005B84,0,buraco cercado dos dois lados por sub_005B84
+$005D2A,$005D35,dado?,inferido,sub_005B84,0,buraco cercado dos dois lados por sub_005B84
+$006482,$0064A5,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$0064CA,$0064D9,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$0064DA,$0064E3,dado,execucao,sub_006C58,1,lido pela CPU em sub_006C58
+$00650C,$00655F,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$006566,$0065D9,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$006568,$00656D,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$0065D2,$0065D7,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$0065E0,$0065E9,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$0065E2,$0065E7,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$0065F0,$006633,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$0065FA,$0065FF,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$006602,$006607,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$00660A,$00660F,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$00663A,$00666D,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$006644,$006649,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$00665C,$006661,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$006664,$006669,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$006674,$006693,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$006676,$00667B,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$006686,$00668B,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$006694,$0066A5,dado,execucao,sub_006C58,1,lido pela CPU em sub_006C58
+$0066AC,$0066BD,dado,execucao,sub_006C58,1,lido pela CPU em sub_006C58
+$0066AE,$0066B3,dado?,inferido,sub_006C58,0,buraco cercado dos dois lados por sub_006C58
+$0066B6,$0066BB,dado?,inferido,sub_006C58,0,buraco cercado dos dois lados por sub_006C58
+$0066DE,$0066EF,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$0066F6,$006761,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$0066F8,$0066FD,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$006708,$00670D,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$006742,$006747,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$006752,$006757,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$006770,$006787,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$006792,$0067A3,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$0067BA,$006833,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$0067C4,$0067C9,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$0067CC,$0067D1,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$0067D4,$0067D9,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$0067DC,$0067E1,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$00682C,$006831,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$006834,$00683D,dado,execucao,sub_006C58,1,lido pela CPU em sub_006C58
+$00684C,$00685B,dado,execucao,sub_006C58,1,lido pela CPU em sub_006C58
+$00684E,$006853,dado?,inferido,sub_006C58,0,buraco cercado dos dois lados por sub_006C58
+$00685C,$0068AF,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$006890,$006895,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$0068A0,$0068A5,dado?,inferido,sub_0063A0,0,buraco cercado dos dois lados por sub_0063A0
+$0068B6,$0068DF,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$0068E0,$0068E9,dado,execucao,sub_006C58,1,lido pela CPU em sub_006C58
+$0068F8,$006927,dado,execucao,sub_006C58,1,lido pela CPU em sub_006C58
+$0068FA,$0068FF,dado?,inferido,sub_006C58,0,buraco cercado dos dois lados por sub_006C58
+$006902,$006907,dado?,inferido,sub_006C58,0,buraco cercado dos dois lados por sub_006C58
+$006930,$006941,dado,execucao,sub_0063A0,1,lido pela CPU em sub_0063A0
+$006B3A,$006B69,dado,execucao,sub_006A82,1,lido pela CPU em sub_006A82
+$006BA6,$006BAD,dado,execucao,sub_006B6A,1,lido pela CPU em sub_006B6A
+$006E2C,$0073C5,dado,execucao,sub_006D3C,1,lido pela CPU em sub_006D3C
+$007410,$0074E3,dado,execucao,sub_0073C6,1,lido pela CPU em sub_0073C6
+$007450,$007453,dado?,inferido,sub_0073C6,0,buraco cercado dos dois lados por sub_0073C6
+$007470,$007473,dado?,inferido,sub_0073C6,0,buraco cercado dos dois lados por sub_0073C6
+$007488,$007493,dado?,inferido,sub_0073C6,0,buraco cercado dos dois lados por sub_0073C6
+$0074D4,$0074DF,dado?,inferido,sub_0073C6,0,buraco cercado dos dois lados por sub_0073C6
+$0074E4,$007515,dado,execucao,sub_00751A,1,lido pela CPU em sub_00751A
+$00782C,$00787B,dado,execucao,sub_007788,1,lido pela CPU em sub_007788
+$0078EA,$0078FF,dado,execucao,sub_0078DC,1,lido pela CPU em sub_0078DC
+$007A02,$007A51,dado,execucao,sub_0079E2,1,lido pela CPU em sub_0079E2
+$007ACA,$007AD1,dado,execucao,sub_007A86,1,lido pela CPU em sub_007A86
+$007B32,$007B41,dado,execucao,sub_007AD2,1,lido pela CPU em sub_007AD2
+$007CCA,$007CD1,dado,execucao,sub_007C40,1,lido pela CPU em sub_007C40
+$00811E,$008125,dado,execucao,sub_007DE8,1,lido pela CPU em sub_007DE8
+$008132,$00813B,preenchimento,constante,-,0,corrida de $00 nunca lida
+$00858C,$008599,dado,execucao,sub_00857E,1,lido pela CPU em sub_00857E
+$008834,$00884B,dado,execucao,sub_0087C6,1,lido pela CPU em sub_0087C6
+$0088AE,$0088C1,dado,execucao,sub_00884C,1,lido pela CPU em sub_00884C
+$008A80,$008ACA,audio,execucao,z80:$15DD,4,buscado pela janela de banco do Z80 em z80:$15DD
+$008A81,$008AA5,dado?,inferido,z80:$15DD,0,buraco cercado dos dois lados por z80:$15DD
+$008AA7,$008AC9,dado?,inferido,z80:$15DD,0,buraco cercado dos dois lados por z80:$15DD
+$008C04,$008C1B,dado,execucao,sub_008BF6,1,lido pela CPU em sub_008BF6
+$008EF4,$008F03,dado,execucao,sub_008D60,1,lido pela CPU em sub_008D60
+$009734,$009745,dado,execucao,sub_00971E,1,lido pela CPU em sub_00971E
+$009875,$00987F,preenchimento,constante,-,0,corrida de $00 nunca lida
+$009C76,$009CB5,dado,execucao,sub_009B44,1,lido pela CPU em sub_009B44
+$00A3A0,$00A3BD,dado,execucao,sub_00A392,1,lido pela CPU em sub_00A392
+$00A450,$00A469,dado,execucao,sub_00A3EE,1,lido pela CPU em sub_00A3EE
+$00A452,$00A455,dado?,inferido,sub_00A3EE,0,buraco cercado dos dois lados por sub_00A3EE
+$00AB82,$00AD89,dado,execucao,sub_00AA18,1,lido pela CPU em sub_00AA18
+$00AFFE,$00B020,dado,execucao,sub_00AD8A,1,lido pela CPU em sub_00AD8A
+$00B015,$00B018,dado?,inferido,sub_00AD8A,0,buraco cercado dos dois lados por sub_00AD8A
+$00B068,$00B077,dado,execucao,sub_00B026,1,lido pela CPU em sub_00B026
+$00B0C6,$00B0E7,dado,execucao,sub_00B09A,1,lido pela CPU em sub_00B09A
+$00B24E,$00B289,dado,execucao,sub_00B202,1,lido pela CPU em sub_00B202
+$00B714,$00B723,dado,execucao,sub_00B682,1,lido pela CPU em sub_00B682
+$00BB08,$00BB1F,dado,execucao,sub_00BAE4,1,lido pela CPU em sub_00BAE4
+$00BB2E,$00BB37,dado,execucao,sub_00BB20,1,lido pela CPU em sub_00BB20
+$00BDE4,$00BDEB,dado,execucao,sub_00BDD6,1,lido pela CPU em sub_00BDD6
+$00BFEE,$00BFF9,dado,execucao,sub_00BFE0,1,lido pela CPU em sub_00BFE0
+$00C286,$00C28F,dado,execucao,sub_00C278,1,lido pela CPU em sub_00C278
+$00C75A,$00C761,dado,execucao,sub_00C74C,1,lido pela CPU em sub_00C74C
+$00C9F6,$00CA03,dado,execucao,sub_00C9E8,1,lido pela CPU em sub_00C9E8
+$00CA8A,$00CA95,dado,execucao,sub_00CA04,1,lido pela CPU em sub_00CA04
+$00CE48,$00CE4F,dado,execucao,sub_00CE3A,1,lido pela CPU em sub_00CE3A
+$00CF6C,$00CF7B,dado,execucao,sub_00CEB8,1,lido pela CPU em sub_00CEB8
+$00D33C,$00D347,dado,execucao,sub_00D32E,1,lido pela CPU em sub_00D32E
+$00D3BC,$00D3C7,dado,execucao,sub_00D348,1,lido pela CPU em sub_00D348
+$00D7D8,$00D7E1,dado,execucao,sub_00D7CA,1,lido pela CPU em sub_00D7CA
+$00DB90,$00DB97,dado,execucao,sub_00DA84,1,lido pela CPU em sub_00DA84
+$00DB98,$00DBD5,dado,execucao,sub_00DA6A,1,lido pela CPU em sub_00DA6A
+$00DB9A,$00DB9F,dado?,inferido,sub_00DA6A,0,buraco cercado dos dois lados por sub_00DA6A
+$00DBA2,$00DBA5,dado?,inferido,sub_00DA6A,0,buraco cercado dos dois lados por sub_00DA6A
+$00DBB0,$00DBBB,dado?,inferido,sub_00DA6A,0,buraco cercado dos dois lados por sub_00DA6A
+$00DBBE,$00DBC7,dado?,inferido,sub_00DA6A,0,buraco cercado dos dois lados por sub_00DA6A
+$00DBE0,$00DBE7,dado,execucao,sub_00DA6A,1,lido pela CPU em sub_00DA6A
+$00DBEA,$00DC01,dado,execucao,sub_00DA6A,1,lido pela CPU em sub_00DA6A
+$00DBF0,$00DBF3,dado?,inferido,sub_00DA6A,0,buraco cercado dos dois lados por sub_00DA6A
+$00DE5E,$00DE9D,dado,execucao,sub_00DD9C,1,lido pela CPU em sub_00DD9C
+$00DF0C,$00DF1B,dado,execucao,sub_00DEB2,1,lido pela CPU em sub_00DEB2
+$00EB96,$00EBA1,dado,execucao,sub_00EAC4,1,lido pela CPU em sub_00EAC4
+$00EB98,$00EB9D,dado?,inferido,sub_00EAC4,0,buraco cercado dos dois lados por sub_00EAC4
+$00F150,$00F15B,dado,execucao,sub_00EDCC,1,lido pela CPU em sub_00EDCC
+$00F366,$00F385,dado,execucao,sub_00F2EA,1,lido pela CPU em sub_00F2EA
+$00F416,$00F435,dado,execucao,sub_00F3CE,1,lido pela CPU em sub_00F3CE
+$00F6E2,$00F6ED,dado,execucao,sub_00F6D4,1,lido pela CPU em sub_00F6D4
+$00F6E8,$00F6EB,dado?,inferido,sub_00F6D4,0,buraco cercado dos dois lados por sub_00F6D4
+$00F76A,$00F779,dado,execucao,sub_00F6F2,1,lido pela CPU em sub_00F6F2
+$00F8CA,$00F8D3,dado,execucao,sub_00F864,1,lido pela CPU em sub_00F864
+$00F91C,$00F925,dado,execucao,sub_00F592,1,lido pela CPU em sub_00F592
+$00F928,$00F9FD,dado?,inferido,sub_00F532,0,buraco cercado dos dois lados por sub_00F532
+$00FA02,$00FA0B,dado,execucao,sub_00F592,1,lido pela CPU em sub_00F592
+$00FA0E,$00FAE3,dado?,inferido,sub_00F532,0,buraco cercado dos dois lados por sub_00F532
+$00FAE8,$00FAF1,dado,execucao,sub_00F592,1,lido pela CPU em sub_00F592
+$00FAF4,$00FBC9,dado?,inferido,sub_00F532,0,buraco cercado dos dois lados por sub_00F532
+$00FBCE,$00FBD7,dado,execucao,sub_00F592,1,lido pela CPU em sub_00F592
+$00FCD6,$00FCF5,dado,execucao,sub_00FCB0,1,lido pela CPU em sub_00FCB0
+$00FD96,$010525,dado,execucao,sub_00FCF6,1,lido pela CPU em sub_00FCF6
+$00FD98,$00FD9F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FDA2,$00FDA9,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FDAC,$00FDB3,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FDDE,$00FDE5,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FDE8,$00FDEF,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FDF2,$00FDF9,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FDFC,$00FE03,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE06,$00FE0D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE10,$00FE17,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE1A,$00FE21,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE24,$00FE2B,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE2E,$00FE35,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE38,$00FE3F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE42,$00FE49,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE4C,$00FE53,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE56,$00FE5D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE60,$00FE67,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE6C,$00FE73,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE76,$00FE7D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FE80,$00FE87,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FEB2,$00FEB9,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FEBC,$00FEC3,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FEC6,$00FECD,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FED0,$00FED7,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FEDA,$00FEE1,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FEE4,$00FEEB,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FEEE,$00FEF5,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FEF8,$00FEFF,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF02,$00FF09,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF0C,$00FF13,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF16,$00FF1D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF20,$00FF27,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF2A,$00FF31,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF34,$00FF3B,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF68,$00FF6F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF72,$00FF79,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF7C,$00FF83,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF86,$00FF8D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF90,$00FF97,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FF9A,$00FFA1,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FFA4,$00FFAB,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FFAE,$00FFB5,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FFB8,$00FFBF,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FFC2,$00FFC9,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FFCC,$00FFD3,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FFD6,$00FFDD,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FFE0,$00FFE7,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FFEA,$00FFF1,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FFF4,$00FFFB,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$00FFFE,$010005,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010008,$01000F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010012,$010019,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01001C,$010023,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010026,$01002D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010030,$010037,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01003A,$010041,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01006E,$010075,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010078,$01007F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010082,$010089,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01008C,$010093,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010096,$01009D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0100A0,$0100A7,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0100AA,$0100B1,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0100B4,$0100BB,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0100BE,$0100C5,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0100C8,$0100CF,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0100D2,$0100D9,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0100DC,$0100E3,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0100E6,$0100ED,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0100F0,$0100F7,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0100FA,$010101,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010104,$01010B,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01010E,$010115,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010118,$01011F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010122,$010129,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01012C,$010133,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010136,$01013D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010140,$010147,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01017E,$010185,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010188,$01018F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010192,$010199,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01019C,$0101A3,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0101A6,$0101AD,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0101B0,$0101B7,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0101BA,$0101C1,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0101C4,$0101CB,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0101CE,$0101D5,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0101D8,$0101DF,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0101E2,$0101E9,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0101EC,$0101F3,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0101F6,$0101FD,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010200,$010207,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01020A,$010211,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010214,$01021B,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01021E,$010225,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010228,$01022F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010232,$010239,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01023C,$010243,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010246,$01024D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010298,$01029F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0102A2,$0102A9,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0102AC,$0102B3,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0102B6,$0102BD,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0102C0,$0102C7,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0102CA,$0102D1,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0102D4,$0102DB,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0102DE,$0102E5,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0102E8,$0102EF,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0102F2,$0102F9,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0102FC,$010303,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010306,$01030D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010310,$010317,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01031A,$010321,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010324,$01032B,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01032E,$010335,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010338,$01033F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010342,$010349,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01034C,$010353,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010356,$01035D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010360,$010367,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010380,$010387,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01038A,$010391,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010394,$01039B,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01039E,$0103A5,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0103C6,$0103CD,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0103F8,$0103FF,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010402,$010409,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01040C,$010413,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010416,$01041D,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010420,$010427,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01042A,$010431,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010434,$01043B,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01043E,$010445,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010448,$01044F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010454,$01045B,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01045E,$010465,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010468,$01046F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010472,$010479,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01049A,$0104A1,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0104CC,$0104D3,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0104D6,$0104DD,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0104E0,$0104E7,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0104EA,$0104F1,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0104F4,$0104FB,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$0104FE,$010505,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010508,$01050F,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010512,$010519,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$01051C,$010523,dado?,inferido,sub_00FCF6,0,buraco cercado dos dois lados por sub_00FCF6
+$010534,$01053B,dado,execucao,sub_010526,1,lido pela CPU em sub_010526
+$0105FC,$0106DB,dado,execucao,sub_01053C,1,lido pela CPU em sub_01053C
+$01060C,$010633,dado?,inferido,sub_01053C,0,buraco cercado dos dois lados por sub_01053C
+$010640,$010643,dado?,inferido,sub_01053C,0,buraco cercado dos dois lados por sub_01053C
+$010648,$010673,dado?,inferido,sub_01053C,0,buraco cercado dos dois lados por sub_01053C
+$010678,$01067B,dado?,inferido,sub_01053C,0,buraco cercado dos dois lados por sub_01053C
+$010690,$010693,dado?,inferido,sub_01053C,0,buraco cercado dos dois lados por sub_01053C
+$010698,$0106C3,dado?,inferido,sub_01053C,0,buraco cercado dos dois lados por sub_01053C
+$0106C8,$0106CB,dado?,inferido,sub_01053C,0,buraco cercado dos dois lados por sub_01053C
+$010746,$010781,dado,execucao,sub_0106EC,1,lido pela CPU em sub_0106EC
+$01074A,$01074D,dado?,inferido,sub_0106EC,0,buraco cercado dos dois lados por sub_0106EC
+$010752,$01077D,dado?,inferido,sub_0106EC,0,buraco cercado dos dois lados por sub_0106EC
+$010C9E,$010CC3,dado,execucao,sub_010C90,1,lido pela CPU em sub_010C90
+$010CD2,$010CDF,dado,execucao,sub_010CC4,1,lido pela CPU em sub_010CC4
+$010D20,$010D3B,dado,execucao,sub_010CE0,1,lido pela CPU em sub_010CE0
+$010D5C,$010D69,dado,execucao,sub_010D3C,1,lido pela CPU em sub_010D3C
+$010E2C,$010E33,dado,execucao,sub_010E1E,1,lido pela CPU em sub_010E1E
+$010E8E,$010EBD,dado,execucao,sub_010E34,1,lido pela CPU em sub_010E34
+$010F1E,$010F6F,dado?,inferido,sub_010F1E,0,buraco cercado dos dois lados por sub_010F1E
+$010F70,$010F7F,dado,execucao,sub_010F1E,1,lido pela CPU em sub_010F1E
+$010F8E,$010F97,dado,execucao,sub_010F80,1,lido pela CPU em sub_010F80
+$010FF6,$01103D,dado,execucao,sub_010F98,1,lido pela CPU em sub_010F98
+$01103E,$011061,dado,execucao,sub_010FD0,1,lido pela CPU em sub_010FD0
+$011062,$011085,dado,execucao,sub_010F98,1,lido pela CPU em sub_010F98
+$0110FE,$011105,dado,execucao,sub_0110F0,1,lido pela CPU em sub_0110F0
+$011120,$011129,dado,execucao,sub_011112,1,lido pela CPU em sub_011112
+$01118E,$011581,dado,execucao,sub_01112A,1,lido pela CPU em sub_01112A
+$0111AA,$0111AD,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$0111BC,$0111CD,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$0111BC,$0111CD,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0111DE,$0111ED,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$0111DE,$0111ED,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011202,$01120D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$011202,$01120D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01121E,$01122D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01121E,$01124D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$01123A,$01124D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011264,$01126D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$011264,$01126D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0112E2,$0112ED,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$0112E2,$0112ED,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0112FE,$01130D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$0112FE,$01130D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011322,$01132D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011322,$01134D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$011346,$01134D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011360,$01136D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$011360,$01136D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011382,$01138D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$011382,$01138D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0113AA,$0113AD,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$0113BC,$0113CD,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$0113BC,$0113CD,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0113DE,$0113ED,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$0113DE,$0113ED,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011402,$01140D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$011402,$01140D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01141E,$01142E,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01141E,$01144D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$01143A,$01144D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011464,$01146D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$011464,$01146D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0114E2,$0114ED,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$0114E2,$0114ED,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0114FE,$01150D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$0114FE,$01150D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011522,$01152E,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011522,$01154D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$011546,$01154D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011560,$01156D,dado?,inferido,sub_01112A,0,buraco cercado dos dois lados por sub_01112A
+$011560,$01156D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011582,$01158D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01158E,$011781,dado,execucao,sub_01116A,1,lido pela CPU em sub_01116A
+$0115AA,$0115AD,dado?,inferido,sub_01116A,0,buraco cercado dos dois lados por sub_01116A
+$0115BC,$0115CD,dado?,inferido,sub_01116A,0,buraco cercado dos dois lados por sub_01116A
+$0115BC,$0115CD,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0115DE,$0115ED,dado?,inferido,sub_01116A,0,buraco cercado dos dois lados por sub_01116A
+$0115DE,$0115ED,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011602,$01160D,dado?,inferido,sub_01116A,0,buraco cercado dos dois lados por sub_01116A
+$011602,$01160D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01161E,$01162E,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01161E,$01164D,dado?,inferido,sub_01116A,0,buraco cercado dos dois lados por sub_01116A
+$01163A,$01164D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011664,$01166D,dado?,inferido,sub_01116A,0,buraco cercado dos dois lados por sub_01116A
+$011664,$01166D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0116E2,$0116ED,dado?,inferido,sub_01116A,0,buraco cercado dos dois lados por sub_01116A
+$0116E2,$0116ED,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0116FE,$01170D,dado?,inferido,sub_01116A,0,buraco cercado dos dois lados por sub_01116A
+$0116FE,$01170D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011722,$01172E,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011722,$01174D,dado?,inferido,sub_01116A,0,buraco cercado dos dois lados por sub_01116A
+$011745,$01174D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011760,$01176D,dado?,inferido,sub_01116A,0,buraco cercado dos dois lados por sub_01116A
+$011760,$01176D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011782,$01178D,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0117D8,$0117E1,dado,execucao,sub_01178E,1,lido pela CPU em sub_01178E
+$0118F0,$0118F9,dado,execucao,sub_0118D4,1,lido pela CPU em sub_0118D4
+$0118F4,$0118F7,dado?,inferido,sub_0118D4,0,buraco cercado dos dois lados por sub_0118D4
+$0119AE,$0119BF,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$011A2C,$011A33,dado,execucao,sub_011B08,1,lido pela CPU em sub_011B08
+$011A96,$011AE9,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$011B78,$011BDF,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$011CD2,$011CE9,dado,execucao,sub_011C34,1,lido pela CPU em sub_011C34
+$011CEA,$011CFB,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$011E7C,$011F9B,dado,execucao,sub_011E00,1,lido pela CPU em sub_011E00
+$011EDC,$011F0B,dado?,inferido,sub_011E00,0,buraco cercado dos dois lados por sub_011E00
+$011EDC,$011F0B,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011F5C,$011F7B,dado?,inferido,sub_011E00,0,buraco cercado dos dois lados por sub_011E00
+$011F5C,$011F7B,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011F9C,$011FFB,dado?,inferido,sub_011E00,0,buraco cercado dos dois lados por sub_011E00
+$011F9C,$011FFB,preenchimento,constante,-,0,corrida de $00 nunca lida
+$011FFC,$01209B,dado,execucao,sub_011E00,1,lido pela CPU em sub_011E00
+$01203C,$01207B,dado?,inferido,sub_011E00,0,buraco cercado dos dois lados por sub_011E00
+$01203C,$01207B,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01209C,$0120FB,dado?,inferido,sub_011E00,0,buraco cercado dos dois lados por sub_011E00
+$01209C,$0120FB,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0120FC,$01219B,dado,execucao,sub_011E00,1,lido pela CPU em sub_011E00
+$01213C,$01217B,dado?,inferido,sub_011E00,0,buraco cercado dos dois lados por sub_011E00
+$01213C,$01217B,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01219C,$0121FB,dado?,inferido,sub_011E00,0,buraco cercado dos dois lados por sub_011E00
+$01219C,$0121FB,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0121FC,$01229B,dado,execucao,sub_011E00,1,lido pela CPU em sub_011E00
+$01224C,$01227B,dado?,inferido,sub_011E00,0,buraco cercado dos dois lados por sub_011E00
+$01224C,$01227B,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01229C,$0122FB,dado?,inferido,sub_011E00,0,buraco cercado dos dois lados por sub_011E00
+$01229C,$0122FB,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0122FC,$01234B,dado,execucao,sub_011E00,1,lido pela CPU em sub_011E00
+$01234C,$01237B,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01238A,$012399,dado,execucao,sub_01237C,1,lido pela CPU em sub_01237C
+$012432,$01243F,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$012440,$012569,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$01256A,$012577,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$012578,$0125E1,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$0125E2,$0125EB,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$01269C,$0126DF,dado,execucao,sub_01262A,1,lido pela CPU em sub_01262A
+$0126A4,$0126A7,dado?,inferido,sub_01262A,0,buraco cercado dos dois lados por sub_01262A
+$0126C6,$0126D9,dado?,inferido,sub_01262A,0,buraco cercado dos dois lados por sub_01262A
+$012858,$012869,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$01286A,$012917,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$012918,$012931,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$01297E,$012989,dado,execucao,sub_012970,1,lido pela CPU em sub_012970
+$012A0C,$012A1D,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$012B2A,$012B31,dado,execucao,sub_012B1C,1,lido pela CPU em sub_012B1C
+$012BD2,$012BE9,dado,execucao,sub_012B32,1,lido pela CPU em sub_012B32
+$012BDA,$012BE1,dado?,inferido,sub_012B32,0,buraco cercado dos dois lados por sub_012B32
+$012C14,$012C1D,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$012D6C,$012D87,dado,execucao,sub_012C1E,1,lido pela CPU em sub_012C1E
+$012D6E,$012D83,dado?,inferido,sub_012C1E,0,buraco cercado dos dois lados por sub_012C1E
+$012E88,$012EB9,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$012E9A,$012EAB,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$0131AA,$0131C7,dado,execucao,sub_013128,1,lido pela CPU em sub_013128
+$0131AC,$0131B1,dado?,inferido,sub_013128,0,buraco cercado dos dois lados por sub_013128
+$0131B8,$0131C3,dado?,inferido,sub_013128,0,buraco cercado dos dois lados por sub_013128
+$0131C8,$0131E9,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$0131D6,$0131E3,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$0132A8,$0132AF,dado,execucao,sub_01326C,1,lido pela CPU em sub_01326C
+$0133A6,$0133C9,dado,execucao,sub_013358,1,lido pela CPU em sub_013358
+$0135F4,$0136B3,dado,execucao,sub_0134EA,1,lido pela CPU em sub_0134EA
+$013732,$013759,dado,execucao,sub_0136B4,1,lido pela CPU em sub_0136B4
+$013952,$013991,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$013992,$0139AB,dado,execucao,sub_01375A,1,lido pela CPU em sub_01375A
+$0139DC,$013A6D,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$013A84,$013A9F,dado,execucao,sub_013A70,1,lido pela CPU em sub_013A70
+$013AD4,$013AE7,dado,execucao,sub_013AC6,1,lido pela CPU em sub_013AC6
+$013BDA,$013BFB,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$013BFC,$013C0F,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$013CDC,$013D01,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$013D62,$013D7D,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$014122,$0141C5,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$01414E,$01416D,dado?,inferido,sub_013C10,0,buraco cercado dos dois lados por sub_013C10
+$01418A,$0141A9,dado?,inferido,sub_013C10,0,buraco cercado dos dois lados por sub_013C10
+$0141C6,$014251,dado?,inferido,sub_013C10,0,buraco cercado dos dois lados por sub_013C10
+$014252,$01426D,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$014288,$014299,dado,execucao,sub_01426E,1,lido pela CPU em sub_01426E
+$0142DE,$0142FD,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$014348,$014369,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$0144D2,$014509,dado,execucao,sub_014410,1,lido pela CPU em sub_014410
+$0145F2,$014613,dado,execucao,sub_01453C,1,lido pela CPU em sub_01453C
+$0146D4,$0146E5,dado,execucao,sub_0146C6,1,lido pela CPU em sub_0146C6
+$0147E0,$014803,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$014804,$01488F,dado?,inferido,sub_013C10,0,buraco cercado dos dois lados por sub_013C10
+$014890,$0148B7,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$014A40,$014A5F,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$014A6E,$014A77,dado,execucao,sub_014A60,1,lido pela CPU em sub_014A60
+$014E9C,$014EA5,dado,execucao,sub_014E8E,1,lido pela CPU em sub_014E8E
+$014F08,$014F13,dado,execucao,sub_014EA6,1,lido pela CPU em sub_014EA6
+$014F14,$014F1F,dado,execucao,sub_0150C4,1,lido pela CPU em sub_0150C4
+$014F20,$015027,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$015180,$015187,dado,execucao,sub_0150C4,1,lido pela CPU em sub_0150C4
+$0151C2,$0151CD,dado,execucao,sub_0151B4,1,lido pela CPU em sub_0151B4
+$015244,$01524D,dado,execucao,sub_015210,1,lido pela CPU em sub_015210
+$015250,$015283,dado,execucao,sub_015210,1,lido pela CPU em sub_015210
+$015288,$015293,dado,execucao,sub_015210,1,lido pela CPU em sub_015210
+$0153C6,$0153E5,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$0154D6,$0154E9,dado,execucao,sub_0153E6,1,lido pela CPU em sub_0153E6
+$0154EA,$01556D,dado,execucao,sub_015474,1,lido pela CPU em sub_015474
+$01556E,$015591,dado,execucao,sub_0153E6,1,lido pela CPU em sub_0153E6
+$015592,$015631,dado,execucao,sub_015474,1,lido pela CPU em sub_015474
+$015708,$015767,dado,execucao,sub_01566E,1,lido pela CPU em sub_01566E
+$015780,$01578B,dado,execucao,sub_015768,1,lido pela CPU em sub_015768
+$015F36,$015F49,dado,execucao,sub_015F20,1,lido pela CPU em sub_015F20
+$015F62,$015F79,dado,execucao,sub_015F4A,1,lido pela CPU em sub_015F4A
+$015FB0,$015FC3,dado,execucao,sub_015F7A,1,lido pela CPU em sub_015F7A
+$015FE0,$015FF3,dado,execucao,sub_015FC4,1,lido pela CPU em sub_015FC4
+$01600E,$01601D,dado,execucao,sub_016002,1,lido pela CPU em sub_016002
+$016148,$01614F,dado,execucao,sub_016142,1,lido pela CPU em sub_016142
+$016276,$016285,dado,execucao,sub_016170,1,lido pela CPU em sub_016170
+$01648A,$0164D7,dado,execucao,sub_016400,1,lido pela CPU em sub_016400
+$0165CC,$0165DB,dado,execucao,sub_0165BE,1,lido pela CPU em sub_0165BE
+$0166E0,$01673F,dado,execucao,sub_01669A,1,lido pela CPU em sub_01669A
+$0167BC,$0167CB,dado,execucao,sub_0167AE,1,lido pela CPU em sub_0167AE
+$01692A,$016935,dado,execucao,sub_01683E,1,lido pela CPU em sub_01683E
+$016A7C,$016A93,dado,execucao,sub_016A5A,1,lido pela CPU em sub_016A5A
+$016AC4,$016ACF,dado,execucao,sub_016AA4,1,lido pela CPU em sub_016AA4
+$016BEA,$016C01,dado,execucao,sub_016C02,1,lido pela CPU em sub_016C02
+$016CBA,$016D15,dado,execucao,sub_016CD2,1,lido pela CPU em sub_016CD2
+$016CD2,$016D09,dado?,inferido,sub_016CD2,0,buraco cercado dos dois lados por sub_016CD2
+$016D94,$016DC3,dado,execucao,sub_016D4E,1,lido pela CPU em sub_016D4E
+$016F1E,$016F4B,dado,execucao,sub_016F00,1,lido pela CPU em sub_016F00
+$0170DE,$0170E5,dado,execucao,sub_0170CC,1,lido pela CPU em sub_0170CC
+$017138,$017143,dado,execucao,sub_017144,1,lido pela CPU em sub_017144
+$0174D8,$0174E9,dado,execucao,sub_01743A,1,lido pela CPU em sub_01743A
+$017DFE,$017E2D,dado,execucao,sub_017BE4,1,lido pela CPU em sub_017BE4
+$017E2E,$017E45,dado,execucao,sub_01783A,1,lido pela CPU em sub_01783A
+$017E46,$017E75,dado,execucao,sub_017BA2,1,lido pela CPU em sub_017BA2
+$017E76,$017E8D,dado,execucao,sub_0178D2,1,lido pela CPU em sub_0178D2
+$017E8E,$017EA5,dado,execucao,sub_017B76,1,lido pela CPU em sub_017B76
+$017EA6,$017EBD,dado,execucao,sub_017B8C,1,lido pela CPU em sub_017B8C
+$017EBE,$017ED5,dado,execucao,sub_017CC8,1,lido pela CPU em sub_017CC8
+$017ED6,$017F05,dado,execucao,sub_017CDC,1,lido pela CPU em sub_017CDC
+$017F06,$017F1D,dado,execucao,sub_00E8AC,1,lido pela CPU em sub_00E8AC
+$017F1E,$017FD7,dado,execucao,sub_017CF4,1,lido pela CPU em sub_017CF4
+$017F90,$017F93,dado?,inferido,sub_017CF4,0,buraco cercado dos dois lados por sub_017CF4
+$017FA8,$017FAB,dado?,inferido,sub_017CF4,0,buraco cercado dos dois lados por sub_017CF4
+$017FC0,$017FC7,dado?,inferido,sub_017CF4,0,buraco cercado dos dois lados por sub_017CF4
+$017FDE,$018025,dado,execucao,sub_017DC2,1,lido pela CPU em sub_017DC2
+$018026,$01806D,dado,execucao,sub_017DC8,1,lido pela CPU em sub_017DC8
+$01806E,$0180B5,dado,execucao,sub_00F47E,1,lido pela CPU em sub_00F47E
+$0180B6,$0180CD,dado,execucao,sub_00A4A6,1,lido pela CPU em sub_00A4A6
+$0180E6,$0180F1,dado,execucao,sub_009EE8,1,lido pela CPU em sub_009EE8
+$0180F4,$0180FD,dado,execucao,sub_009EE8,1,lido pela CPU em sub_009EE8
+$0180FE,$018115,dado,execucao,sub_00B4E0,1,lido pela CPU em sub_00B4E0
+$018116,$01815D,dado,execucao,sub_00A59E,1,lido pela CPU em sub_00A59E
+$018136,$018139,dado?,inferido,sub_00A59E,0,buraco cercado dos dois lados por sub_00A59E
+$01814E,$018151,dado?,inferido,sub_00A59E,0,buraco cercado dos dois lados por sub_00A59E
+$01815E,$018175,dado,execucao,sub_006036,1,lido pela CPU em sub_006036
+$018176,$01818D,dado,execucao,sub_0060DE,1,lido pela CPU em sub_0060DE
+$01818E,$0181BD,dado,execucao,sub_00A65C,1,lido pela CPU em sub_00A65C
+$0181BE,$0181ED,dado,execucao,sub_008C6E,1,lido pela CPU em sub_008C6E
+$0181D2,$0181D5,dado?,inferido,sub_008C6E,0,buraco cercado dos dois lados por sub_008C6E
+$0181E2,$0181E5,dado?,inferido,sub_008C6E,0,buraco cercado dos dois lados por sub_008C6E
+$0181EE,$018205,dado,execucao,sub_008444,1,lido pela CPU em sub_008444
+$018206,$01821D,dado,execucao,sub_0084C2,1,lido pela CPU em sub_0084C2
+$01821E,$018235,dado,execucao,sub_0090D4,1,lido pela CPU em sub_0090D4
+$018236,$01824D,dado,execucao,sub_00A0EA,1,lido pela CPU em sub_00A0EA
+$01824E,$018265,dado,execucao,sub_007DE8,1,lido pela CPU em sub_007DE8
+$018268,$01827D,dado,execucao,sub_00978C,1,lido pela CPU em sub_00978C
+$01827E,$018295,dado,execucao,sub_0098C6,1,lido pela CPU em sub_0098C6
+$018296,$0182AD,dado,execucao,sub_00F198,1,lido pela CPU em sub_00F198
+$0182AE,$0182C5,dado,execucao,sub_00978C,1,lido pela CPU em sub_00978C
+$0182C6,$0182DD,dado,execucao,sub_009950,1,lido pela CPU em sub_009950
+$0182DE,$0182E9,dado,execucao,sub_009A28,1,lido pela CPU em sub_009A28
+$0182EC,$0182F3,dado,execucao,sub_009A28,1,lido pela CPU em sub_009A28
+$018306,$01830D,dado,execucao,sub_009950,1,lido pela CPU em sub_009950
+$01830E,$018333,dado,execucao,sub_00AD8A,1,lido pela CPU em sub_00AD8A
+$018316,$01831D,dado?,inferido,sub_00AD8A,0,buraco cercado dos dois lados por sub_00AD8A
+$018322,$018325,dado?,inferido,sub_00AD8A,0,buraco cercado dos dois lados por sub_00AD8A
+$01832C,$01832F,dado?,inferido,sub_00AD8A,0,buraco cercado dos dois lados por sub_00AD8A
+$01833E,$01839D,dado,execucao,sub_0078A4,1,lido pela CPU em sub_0078A4
+$01839E,$0183B5,dado,execucao,sub_00751A,1,lido pela CPU em sub_00751A
+$0183E6,$018565,dado,execucao,sub_00A9B4,1,lido pela CPU em sub_00A9B4
+$0183F6,$0183FB,dado?,inferido,sub_00A9B4,0,buraco cercado dos dois lados por sub_00A9B4
+$018414,$018419,dado?,inferido,sub_00A9B4,0,buraco cercado dos dois lados por sub_00A9B4
+$018470,$018483,dado?,inferido,sub_00A9B4,0,buraco cercado dos dois lados por sub_00A9B4
+$018470,$018483,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0184AE,$0184C5,dado?,inferido,sub_00A9B4,0,buraco cercado dos dois lados por sub_00A9B4
+$0184AE,$0184C5,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0184EE,$018503,dado?,inferido,sub_00A9B4,0,buraco cercado dos dois lados por sub_00A9B4
+$0184EE,$018503,preenchimento,constante,-,0,corrida de $00 nunca lida
+$018514,$018523,dado?,inferido,sub_00A9B4,0,buraco cercado dos dois lados por sub_00A9B4
+$018514,$018523,preenchimento,constante,-,0,corrida de $FF nunca lida
+$018550,$018563,dado?,inferido,sub_00A9B4,0,buraco cercado dos dois lados por sub_00A9B4
+$018626,$019CF9,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01877E,$018781,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018796,$018799,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$0187DE,$0187E1,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018956,$018989,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01898E,$018991,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018996,$018999,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$0189A6,$0189A9,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$0189BE,$0189C5,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$0189CE,$0189D1,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018AC2,$018AC5,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018C0E,$018C11,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018C42,$018C45,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018C66,$018C6D,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018C86,$018C89,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018C92,$018C99,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018CA2,$018CA5,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018CAA,$018CB1,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018CBE,$018CC1,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018CC6,$018CCD,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018CD6,$018CDD,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$018EC2,$018ED7,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019524,$01952B,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019560,$01956B,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$0195AA,$0195AF,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$0195C4,$0195DD,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019632,$01963B,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019732,$019743,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019A3A,$019A43,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019A64,$019A6D,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019A8A,$019A8F,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019B92,$019B9B,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019BEA,$019BEF,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019BFA,$019BFF,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019C0A,$019C0F,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019CFA,$019DB3,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019DB4,$01AB31,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$019DC2,$019DCF,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019DDE,$019DEB,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019E16,$019E23,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019E6A,$019E85,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$019EA2,$019EAF,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A28C,$01A299,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A3FA,$01A40B,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A4D2,$01A4E7,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A70A,$01A713,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A724,$01A72D,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A73E,$01A747,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A76A,$01A77B,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A7A6,$01A7AF,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A8EE,$01A8F7,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A96A,$01A975,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01A9F2,$01AA25,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01AA54,$01AA59,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01AA7C,$01AA8F,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01AAAC,$01AAEB,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01AB10,$01AB25,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01AB32,$01AB73,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01AB74,$01AC67,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01AB98,$01ABA7,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01ABCA,$01ABFD,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01AC22,$01AC35,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01ACCE,$01ACDD,dado,execucao,RleUnpackSelect,1,lido pela CPU em RleUnpackSelect
+$01AE00,$01AE27,dado,execucao,sub_01AD7A,1,lido pela CPU em sub_01AD7A
+$01AE78,$01AEB9,dado,execucao,sub_01AE28,1,lido pela CPU em sub_01AE28
+$01AEBA,$01AF2D,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01AF32,$01AF81,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01AF4E,$01AF51,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01AF8E,$01AFCD,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01AFD2,$01B06D,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B072,$01B0A1,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B08E,$01B091,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B0B2,$01B0C1,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B0C6,$01B0E9,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B0EE,$01B179,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B14E,$01B151,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B156,$01B159,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B17E,$01B1BD,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B1C2,$01B271,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B1CE,$01B1D5,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B252,$01B255,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B276,$01B291,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B296,$01B2B1,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B29A,$01B29D,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B2BE,$01B361,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B2D2,$01B2D5,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B302,$01B305,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B366,$01B391,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B396,$01B49D,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B3C2,$01B3CD,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B3E6,$01B3F1,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B4A2,$01B4C5,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B4CA,$01B4E9,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B4F6,$01B521,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B526,$01B5BD,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B58E,$01B591,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B5C2,$01B5E5,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B5D2,$01B5D5,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B5FE,$01B605,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B606,$01B60D,dado,execucao,sub_01AC68,1,lido pela CPU em sub_01AC68
+$01B60E,$01B645,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B622,$01B631,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B636,$01B63D,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B64A,$01B6E9,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B6AE,$01B6B1,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B6C2,$01B6C5,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B6FA,$01B719,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B71E,$01B735,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B73A,$01B81D,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B742,$01B745,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B75E,$01B761,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B776,$01B779,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B7FE,$01B801,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B822,$01B831,dado,execucao,sub_01AC68,1,lido pela CPU em sub_01AC68
+$01B832,$01B91D,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B86A,$01B86D,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B8E2,$01B8E9,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B922,$01B93D,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B942,$01B94D,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B97E,$01BA3D,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01B98A,$01B98D,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01B9EA,$01B9ED,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01BA1E,$01BA21,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01BA52,$01BA79,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01BA7E,$01BAAD,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01BAB6,$01BB59,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01BB5E,$01BBE5,dado,execucao,sub_01738A,1,lido pela CPU em sub_01738A
+$01BBCA,$01BBD9,dado?,inferido,sub_01738A,0,buraco cercado dos dois lados por sub_01738A
+$01BBE6,$01C489,dado,execucao,sub_01AC68,1,lido pela CPU em sub_01AC68
+$01BC56,$01BC59,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01BC8A,$01BC91,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01BD92,$01BD95,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01BDDE,$01BDE1,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01BE4A,$01BE4D,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01BE7E,$01BE81,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01BE8E,$01BE91,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01BEA6,$01BEAD,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01BEC6,$01BEC9,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01BF72,$01BF75,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01BF7E,$01BF81,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C06A,$01C06D,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C0D6,$01C0D9,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C106,$01C109,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C11A,$01C121,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C162,$01C165,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C176,$01C179,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C19E,$01C1A9,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C1FA,$01C1FD,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C212,$01C215,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C24A,$01C24D,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C272,$01C275,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C292,$01C295,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C32A,$01C32D,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C33E,$01C341,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C382,$01C385,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01C3B6,$01C3B9,dado?,inferido,sub_01AC68,0,buraco cercado dos dois lados por sub_01AC68
+$01CB74,$01CB7F,dado,execucao,sub_01CB10,1,lido pela CPU em sub_01CB10
+$01CBEC,$01CC03,dado,execucao,sub_01CBDE,1,lido pela CPU em sub_01CBDE
+$01CC4C,$01CC53,dado,execucao,sub_01CC36,1,lido pela CPU em sub_01CC36
+$01CC78,$01CC87,dado,execucao,sub_01CC6A,1,lido pela CPU em sub_01CC6A
+$01CC7C,$01CC85,dado?,inferido,sub_01CC6A,0,buraco cercado dos dois lados por sub_01CC6A
+$01CCA6,$01CCC3,dado,execucao,sub_01CC88,1,lido pela CPU em sub_01CC88
+$01CD18,$01CD23,dado,execucao,sub_01CCC6,1,lido pela CPU em sub_01CCC6
+$01CD90,$01CDAF,dado,execucao,sub_01CD54,1,lido pela CPU em sub_01CD54
+$01CDE8,$01CE07,dado,execucao,sub_01CDB0,1,lido pela CPU em sub_01CDB0
+$01CDEC,$01CDF5,dado?,inferido,sub_01CDB0,0,buraco cercado dos dois lados por sub_01CDB0
+$01CDFC,$01CE05,dado?,inferido,sub_01CDB0,0,buraco cercado dos dois lados por sub_01CDB0
+$01CE58,$01CE95,dado,execucao,sub_01CE08,1,lido pela CPU em sub_01CE08
+$01CF1C,$01CF25,dado,execucao,sub_01CEC8,1,lido pela CPU em sub_01CEC8
+$01CF26,$01CF55,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$01CF69,$01CFFB,dado?,inferido,sub_01CF72,0,buraco cercado dos dois lados por sub_01CF72
+$01CFFC,$01D003,dado,execucao,sub_01CF72,1,lido pela CPU em sub_01CF72
+$01D024,$01D02B,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01D032,$01D03A,preenchimento,constante,-,0,corrida de $00 nunca lida
+$01D9C6,$01D9CD,dado,execucao,sub_01D9B4,1,lido pela CPU em sub_01D9B4
+$01D9C8,$01D9CC,dado?,inferido,sub_01D9B4,0,buraco cercado dos dois lados por sub_01D9B4
+$01DA70,$01DA7F,dado,execucao,sub_01DA3E,1,lido pela CPU em sub_01DA3E
+$01DD5C,$01DD6B,dado,execucao,sub_01DD3C,1,lido pela CPU em sub_01DD3C
+$01DD5E,$01DD62,dado?,inferido,sub_01DD3C,0,buraco cercado dos dois lados por sub_01DD3C
+$01DD66,$01DD6A,dado?,inferido,sub_01DD3C,0,buraco cercado dos dois lados por sub_01DD3C
+$01DDBA,$01DEB9,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$01E194,$01E19B,preenchimento,constante,-,0,corrida de $FF nunca lida
+$01E1D0,$01E1D7,preenchimento,constante,-,0,corrida de $FF nunca lida
+$01E23C,$01E244,preenchimento,constante,-,0,corrida de $FF nunca lida
+$01E392,$01E39A,preenchimento,constante,-,0,corrida de $FF nunca lida
+$01E3B6,$01E3BF,preenchimento,constante,-,0,corrida de $2F nunca lida
+$01E588,$01E5A7,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$01E93A,$01E96A,dado,execucao,sub_01E8E8,1,lido pela CPU em sub_01E8E8
+$01E93C,$01E945,dado?,inferido,sub_01E8E8,0,buraco cercado dos dois lados por sub_01E8E8
+$01E948,$01E951,dado?,inferido,sub_01E8E8,0,buraco cercado dos dois lados por sub_01E8E8
+$01E954,$01E95D,dado?,inferido,sub_01E8E8,0,buraco cercado dos dois lados por sub_01E8E8
+$01E95F,$01E963,dado?,inferido,sub_01E8E8,0,buraco cercado dos dois lados por sub_01E8E8
+$01E965,$01E969,dado?,inferido,sub_01E8E8,0,buraco cercado dos dois lados por sub_01E8E8
+$01E9A6,$01E9AF,dado,execucao,sub_01E970,1,lido pela CPU em sub_01E970
+$01E9A7,$01E9AE,dado?,inferido,sub_01E970,0,buraco cercado dos dois lados por sub_01E970
+$01E9B0,$01E9B9,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$01F384,$01F3A3,dado,execucao,sub_01F274,1,lido pela CPU em sub_01F274
+$01F408,$01F40F,dado,execucao,sub_01F410,1,lido pela CPU em sub_01F410
+$01F4AE,$01F4BF,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$01F4C0,$01F56F,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$01F570,$01F579,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$01F5D0,$01F5D7,dado,execucao,sub_01F580,1,lido pela CPU em sub_01F580
+$01F5D8,$01F5E9,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$01F7E4,$01F7EB,dado,execucao,sub_01F7D6,1,lido pela CPU em sub_01F7D6
+$01FA8A,$01FA99,dado,execucao,sub_01FA5A,1,lido pela CPU em sub_01FA5A
+$01FC26,$01FC33,dado,execucao,sub_01FC1C,1,lido pela CPU em sub_01FC1C
+$01FCD2,$01FCDF,dado,execucao,sub_01FC34,1,lido pela CPU em sub_01FC34
+$01FCE0,$01FD63,dado?,inferido,sub_01FC34,0,buraco cercado dos dois lados por sub_01FC34
+$01FD64,$01FDD4,dado,execucao,sub_01FC34,1,lido pela CPU em sub_01FC34
+$01FE60,$01FE8F,dado,execucao,sub_01FDDA,1,lido pela CPU em sub_01FDDA
+$01FEF0,$01FEFF,dado,execucao,sub_01FE10,1,lido pela CPU em sub_01FE10
+$01FF68,$01FF71,dado,execucao,sub_01FF5A,1,lido pela CPU em sub_01FF5A
+$020126,$020265,dado,execucao,sub_0200FE,1,lido pela CPU em sub_0200FE
+$020226,$020245,dado?,inferido,sub_0200FE,0,buraco cercado dos dois lados por sub_0200FE
+$02026E,$020283,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$0202E8,$02030F,dado,execucao,sub_020284,1,lido pela CPU em sub_020284
+$020310,$02031F,dado,execucao,sub_0202C2,1,lido pela CPU em sub_0202C2
+$0204FA,$020511,dado,execucao,sub_0204E8,1,lido pela CPU em sub_0204E8
+$02050C,$02050F,dado?,inferido,sub_0204E8,0,buraco cercado dos dois lados por sub_0204E8
+$020732,$020739,dado,execucao,sub_0206DE,1,lido pela CPU em sub_0206DE
+$0209B8,$0209C7,dado,execucao,sub_020842,1,lido pela CPU em sub_020842
+$020C96,$020C9F,dado,execucao,sub_020C80,1,lido pela CPU em sub_020C80
+$020CEA,$020D11,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$020D42,$020D97,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$020D54,$020D91,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$020E12,$020E21,dado,execucao,sub_020DAE,1,lido pela CPU em sub_020DAE
+$020E40,$020E4F,dado,execucao,sub_020DAE,1,lido pela CPU em sub_020DAE
+$020E62,$020E69,dado,execucao,sub_021F3A,1,lido pela CPU em sub_021F3A
+$020FB0,$020FD2,dado,execucao,sub_020F1E,1,lido pela CPU em sub_020F1E
+$020FC4,$020FC7,dado?,inferido,sub_020F1E,0,buraco cercado dos dois lados por sub_020F1E
+$02102C,$021035,dado,execucao,sub_020FEC,1,lido pela CPU em sub_020FEC
+$0210EC,$0210F7,dado,execucao,sub_021082,1,lido pela CPU em sub_021082
+$0212A2,$0212A9,dado,execucao,sub_021274,1,lido pela CPU em sub_021274
+$02138A,$0213A1,dado,execucao,sub_02135A,1,lido pela CPU em sub_02135A
+$0213DA,$0213E9,dado,execucao,sub_0213BA,1,lido pela CPU em sub_0213BA
+$0213FC,$021403,dado,execucao,sub_0213EA,1,lido pela CPU em sub_0213EA
+$02157C,$0215BB,dado,execucao,sub_021530,1,lido pela CPU em sub_021530
+$0215E8,$0215FF,dado,execucao,sub_0215BC,1,lido pela CPU em sub_0215BC
+$02168E,$021695,dado,execucao,sub_021660,1,lido pela CPU em sub_021660
+$021696,$0216CF,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$0216D0,$02177D,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$02177E,$0217B7,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$021810,$021863,dado,execucao,sub_0217E0,1,lido pela CPU em sub_0217E0
+$021834,$02183B,dado?,inferido,sub_0217E0,0,buraco cercado dos dois lados por sub_0217E0
+$021840,$021843,dado?,inferido,sub_0217E0,0,buraco cercado dos dois lados por sub_0217E0
+$021858,$02185B,dado?,inferido,sub_0217E0,0,buraco cercado dos dois lados por sub_0217E0
+$0219AC,$0219B5,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$0219B6,$0219C1,dado,execucao,sub_02192E,1,lido pela CPU em sub_02192E
+$021B14,$021B33,dado,execucao,sub_021AFA,1,lido pela CPU em sub_021AFA
+$021B34,$021BD1,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$021C7E,$021C87,dado,execucao,sub_021C62,1,lido pela CPU em sub_021C62
+$021D4E,$021D59,dado,execucao,sub_021CF0,1,lido pela CPU em sub_021CF0
+$021E1E,$021E71,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$021E28,$021E2B,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$021F0A,$021F39,dado,execucao,sub_021E72,1,lido pela CPU em sub_021E72
+$02211C,$02212B,dado,execucao,sub_022096,1,lido pela CPU em sub_022096
+$022124,$022127,dado?,inferido,sub_022096,0,buraco cercado dos dois lados por sub_022096
+$02214A,$02215F,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$02221E,$02222D,dado,execucao,sub_02218C,1,lido pela CPU em sub_02218C
+$022226,$022229,dado?,inferido,sub_02218C,0,buraco cercado dos dois lados por sub_02218C
+$02224C,$022261,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$022262,$0223A1,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$0223A2,$0223C3,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$022416,$022421,dado,execucao,sub_0223E6,1,lido pela CPU em sub_0223E6
+$02241C,$02241F,dado?,inferido,sub_0223E6,0,buraco cercado dos dois lados por sub_0223E6
+$022466,$02246D,dado,execucao,sub_022454,1,lido pela CPU em sub_022454
+$02249E,$0224AD,dado,execucao,sub_0256F4,1,lido pela CPU em sub_0256F4
+$022536,$02253D,dado,execucao,sub_0224AE,1,lido pela CPU em sub_0224AE
+$0226C4,$022703,dado,execucao,sub_02263C,1,lido pela CPU em sub_02263C
+$022704,$022723,dado,execucao,sub_02266A,1,lido pela CPU em sub_02266A
+$022724,$0227F3,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$02291A,$022933,dado,execucao,sub_02290C,1,lido pela CPU em sub_02290C
+$022920,$022923,dado?,inferido,sub_02290C,0,buraco cercado dos dois lados por sub_02290C
+$02296A,$022971,dado,execucao,sub_022934,1,lido pela CPU em sub_022934
+$022984,$022997,dado,execucao,sub_022972,1,lido pela CPU em sub_022972
+$022ADE,$022AE5,dado,execucao,sub_022A18,1,lido pela CPU em sub_022A18
+$022B1A,$022B79,dado,execucao,sub_022AE6,1,lido pela CPU em sub_022AE6
+$0230B6,$0230BD,dado,execucao,sub_0230AA,1,lido pela CPU em sub_0230AA
+$02318A,$02319F,dado,execucao,sub_02316E,1,lido pela CPU em sub_02316E
+$0231A0,$0231A9,preenchimento,constante,-,0,corrida de $FF nunca lida
+$023456,$02347D,dado,execucao,sub_023442,1,lido pela CPU em sub_023442
+$023462,$023467,dado?,inferido,sub_023442,0,buraco cercado dos dois lados por sub_023442
+$02349E,$0235C5,dado,execucao,sub_0236B2,1,lido pela CPU em sub_0236B2
+$02349F,$0234AD,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$02349F,$0234AD,preenchimento,constante,-,0,corrida de $01 nunca lida
+$0234AF,$0234BB,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$0234D1,$0234D5,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$0234D8,$0234E5,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$0234E8,$0234EB,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$023526,$023539,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$02353C,$023541,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$023543,$023551,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$023556,$02355A,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$02355C,$023585,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$023566,$023575,preenchimento,constante,-,0,corrida de $01 nunca lida
+$0235BF,$0235C2,dado?,inferido,sub_0236B2,0,buraco cercado dos dois lados por sub_0236B2
+$0235D6,$0235E9,preenchimento,constante,-,0,corrida de $00 nunca lida
+$02360E,$023615,preenchimento,constante,-,0,corrida de $00 nunca lida
+$023626,$023635,preenchimento,constante,-,0,corrida de $00 nunca lida
+$023636,$02365D,preenchimento,constante,-,0,corrida de $01 nunca lida
+$02365E,$023665,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0236DE,$0236E5,dado,execucao,sub_0236D0,1,lido pela CPU em sub_0236D0
+$023702,$02371D,dado,execucao,sub_0236E6,1,lido pela CPU em sub_0236E6
+$02370E,$023711,dado?,inferido,sub_0236E6,0,buraco cercado dos dois lados por sub_0236E6
+$023944,$02396B,dado,execucao,sub_02392C,1,lido pela CPU em sub_02392C
+$023950,$023955,dado?,inferido,sub_02392C,0,buraco cercado dos dois lados por sub_02392C
+$023AD1,$023D0F,dado,execucao,sub_023AB0,1,lido pela CPU em sub_023AB0
+$023D10,$023D56,dado,execucao,sub_0233C0,1,lido pela CPU em sub_0233C0
+$023D41,$023D4E,dado?,inferido,sub_0233C0,0,buraco cercado dos dois lados por sub_0233C0
+$023D41,$023D4E,preenchimento,constante,-,0,corrida de $01 nunca lida
+$023D59,$023D64,dado,execucao,sub_0233C0,1,lido pela CPU em sub_0233C0
+$023D68,$023D6F,preenchimento,constante,-,0,corrida de $01 nunca lida
+$023D70,$023D7E,dado,execucao,sub_0233C0,1,lido pela CPU em sub_0233C0
+$023D7A,$023D7D,dado?,inferido,sub_0233C0,0,buraco cercado dos dois lados por sub_0233C0
+$023D80,$023DBB,dado,execucao,sub_0233C0,1,lido pela CPU em sub_0233C0
+$023D95,$023DA4,dado?,inferido,sub_0233C0,0,buraco cercado dos dois lados por sub_0233C0
+$023D95,$023DA4,preenchimento,constante,-,0,corrida de $00 nunca lida
+$023DA6,$023DAE,dado?,inferido,sub_0233C0,0,buraco cercado dos dois lados por sub_0233C0
+$023DA6,$023DAE,preenchimento,constante,-,0,corrida de $00 nunca lida
+$023E18,$023E45,dado,execucao,sub_023DC0,1,lido pela CPU em sub_023DC0
+$023E48,$023E57,dado,execucao,sub_02452C,1,lido pela CPU em sub_02452C
+$023F2A,$024169,dado,execucao,sub_023ED0,1,lido pela CPU em sub_023ED0
+$0246FE,$024705,preenchimento,constante,-,0,corrida de $01 nunca lida
+$02494A,$024969,dado,execucao,sub_02482C,1,lido pela CPU em sub_02482C
+$024986,$024999,dado,execucao,sub_024924,1,lido pela CPU em sub_024924
+$0249DE,$0249E9,dado,execucao,sub_02499A,1,lido pela CPU em sub_02499A
+$0249E2,$0249E5,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024B42,$024B4B,dado,execucao,sub_024B1C,1,lido pela CPU em sub_024B1C
+$024BEA,$024D60,dado,execucao,sub_02499A,1,lido pela CPU em sub_02499A
+$024BF6,$024BFF,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024C20,$024C28,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024C2F,$024C35,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024C3F,$024C46,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024C4B,$024C51,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024C58,$024C66,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024C69,$024C72,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024C81,$024C8F,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024C85,$024C8C,preenchimento,constante,-,0,corrida de $05 nunca lida
+$024C93,$024C9D,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024C96,$024C9D,preenchimento,constante,-,0,corrida de $05 nunca lida
+$024CA8,$024CB8,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024CAF,$024CB6,preenchimento,constante,-,0,corrida de $05 nunca lida
+$024CBD,$024CC4,preenchimento,constante,-,0,corrida de $0A nunca lida
+$024CBD,$024CE1,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024CC5,$024CDC,preenchimento,constante,-,0,corrida de $AA nunca lida
+$024CE9,$024D0A,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024CEF,$024D06,preenchimento,constante,-,0,corrida de $AA nunca lida
+$024D1A,$024D30,preenchimento,constante,-,0,corrida de $AA nunca lida
+$024D1A,$024D34,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024D38,$024D3B,dado?,inferido,sub_02499A,0,buraco cercado dos dois lados por sub_02499A
+$024D9C,$024DA3,dado,execucao,sub_024D64,1,lido pela CPU em sub_024D64
+$024DA4,$024EF7,dado?,inferido,sub_024D64,0,buraco cercado dos dois lados por sub_024D64
+$024EF8,$024F4B,dado,execucao,sub_024D64,1,lido pela CPU em sub_024D64
+$025166,$025187,preenchimento,constante,-,0,corrida de $80 nunca lida
+$02518A,$0251AD,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$025190,$025198,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$0251A1,$0251A7,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$0251B1,$0251BA,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$0251B2,$0251B7,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$0251BB,$0251C2,dado,execucao,sub_020F1E,1,lido pela CPU em sub_020F1E
+$025254,$02525B,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$025264,$02526C,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$025266,$025269,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$025274,$02527C,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$025276,$02527A,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$025284,$02528D,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$025286,$02528B,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$025294,$02529D,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$025296,$02529C,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$0252CC,$0252D3,dado,execucao,sub_020F1E,1,lido pela CPU em sub_020F1E
+$0252E4,$0252EB,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$0252E6,$0252EA,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$0252F6,$0252F9,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$02530A,$025313,dado,execucao,sub_020F1E,1,lido pela CPU em sub_020F1E
+$02531A,$025323,dado,execucao,sub_020F1E,1,lido pela CPU em sub_020F1E
+$02536A,$025372,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$02536B,$025371,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$0253DA,$0253E2,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$0253DB,$0253E1,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$0253FA,$025402,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$0253FB,$025401,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$02543B,$025443,dado,execucao,sub_020F1E,1,lido pela CPU em sub_020F1E
+$025444,$02544C,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$025445,$025448,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$02544E,$02547F,dado,execucao,sub_0229D2,1,lido pela CPU em sub_0229D2
+$025455,$025459,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$025463,$02546A,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$025472,$02547B,dado?,inferido,sub_0229D2,0,buraco cercado dos dois lados por sub_0229D2
+$025483,$0254E5,preenchimento,constante,-,0,corrida de $80 nunca lida
+$025506,$02553F,dado,execucao,sub_0254E6,1,lido pela CPU em sub_0254E6
+$02550C,$02550F,dado?,inferido,sub_0254E6,0,buraco cercado dos dois lados por sub_0254E6
+$025512,$025527,dado?,inferido,sub_0254E6,0,buraco cercado dos dois lados por sub_0254E6
+$02552C,$02552F,dado?,inferido,sub_0254E6,0,buraco cercado dos dois lados por sub_0254E6
+$025534,$02553B,dado?,inferido,sub_0254E6,0,buraco cercado dos dois lados por sub_0254E6
+$0255F0,$02565B,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$025610,$025633,dado?,inferido,sub_013C10,0,buraco cercado dos dois lados por sub_013C10
+$02565C,$0256AB,dado?,inferido,sub_013C10,0,buraco cercado dos dois lados por sub_013C10
+$0256AC,$0256D7,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$025756,$025763,dado,execucao,sub_025744,1,lido pela CPU em sub_025744
+$02588C,$0258B9,dado,execucao,sub_0257C6,1,lido pela CPU em sub_0257C6
+$025954,$02597B,dado,execucao,sub_0258F6,1,lido pela CPU em sub_0258F6
+$02599A,$0259A5,dado,execucao,sub_02598C,1,lido pela CPU em sub_02598C
+$025A2A,$025A39,dado,execucao,sub_0259A6,1,lido pela CPU em sub_0259A6
+$025D74,$025D7B,dado,execucao,sub_025D18,1,lido pela CPU em sub_025D18
+$025F80,$025F97,dado,execucao,sub_025F72,1,lido pela CPU em sub_025F72
+$026022,$02602F,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$026030,$02607B,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$02607C,$0260DB,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$026086,$0260B7,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$0260DC,$026519,dado?,inferido,sub_0044BA,0,buraco cercado dos dois lados por sub_0044BA
+$02651A,$02653B,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$026640,$026647,dado,execucao,sub_02662E,1,lido pela CPU em sub_02662E
+$02682A,$02683D,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$02683E,$02685B,dado,execucao,sub_0267A4,1,lido pela CPU em sub_0267A4
+$02684A,$026859,dado?,inferido,sub_0267A4,0,buraco cercado dos dois lados por sub_0267A4
+$02685C,$026873,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$026876,$02688D,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$026890,$0268A7,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$0269EA,$0269F9,dado,execucao,sub_02699E,1,lido pela CPU em sub_02699E
+$0269FA,$026A61,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$026AFC,$026B05,dado,execucao,sub_026AEE,1,lido pela CPU em sub_026AEE
+$026C2E,$026C79,dado,execucao,sub_026B06,1,lido pela CPU em sub_026B06
+$026D58,$026D7F,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$026ECC,$026F07,dado,execucao,sub_026E08,1,lido pela CPU em sub_026E08
+$026FB2,$0270F1,dado,execucao,sub_026F08,1,lido pela CPU em sub_026F08
+$0271B6,$0271CB,dado,execucao,sub_027180,1,lido pela CPU em sub_027180
+$0273CA,$0273D1,dado,execucao,sub_02737C,1,lido pela CPU em sub_02737C
+$0274B2,$0274D9,dado,execucao,sub_0273EE,1,lido pela CPU em sub_0273EE
+$02755C,$02756B,dado,execucao,sub_0274DA,1,lido pela CPU em sub_0274DA
+$0275B2,$0275D1,dado,execucao,sub_02756C,1,lido pela CPU em sub_02756C
+$0275B6,$0275B9,dado?,inferido,sub_02756C,0,buraco cercado dos dois lados por sub_02756C
+$0275BE,$0275C1,dado?,inferido,sub_02756C,0,buraco cercado dos dois lados por sub_02756C
+$0275C6,$0275CD,dado?,inferido,sub_02756C,0,buraco cercado dos dois lados por sub_02756C
+$0275D6,$02763D,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$027820,$02782B,preenchimento,constante,-,0,corrida de $00 nunca lida
+$02782C,$02796F,dado,execucao,sub_0276E4,1,lido pela CPU em sub_0276E4
+$027830,$027833,dado?,inferido,sub_0276E4,0,buraco cercado dos dois lados por sub_0276E4
+$027838,$02783B,dado?,inferido,sub_0276E4,0,buraco cercado dos dois lados por sub_0276E4
+$027840,$027847,dado?,inferido,sub_0276E4,0,buraco cercado dos dois lados por sub_0276E4
+$027840,$027847,preenchimento,constante,-,0,corrida de $00 nunca lida
+$02784C,$02784F,dado?,inferido,sub_0276E4,0,buraco cercado dos dois lados por sub_0276E4
+$0279A8,$0279B5,dado,execucao,sub_02799A,1,lido pela CPU em sub_02799A
+$027A8C,$027A9B,dado,execucao,sub_027A4A,1,lido pela CPU em sub_027A4A
+$027B6E,$027B75,dado,execucao,sub_027AD8,1,lido pela CPU em sub_027AD8
+$027BCE,$027BDD,dado,execucao,sub_027B94,1,lido pela CPU em sub_027B94
+$027BF6,$027C1B,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$027DBE,$027E1B,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$027E52,$027E59,dado,execucao,sub_027E1C,1,lido pela CPU em sub_027E1C
+$027E86,$027EA9,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$028138,$028143,dado,execucao,sub_0280E8,1,lido pela CPU em sub_0280E8
+$028144,$0281D9,dado?,inferido,sub_0280E8,0,buraco cercado dos dois lados por sub_0280E8
+$028214,$02823A,dado,execucao,sub_027EEC,1,lido pela CPU em sub_027EEC
+$028F09,$028FA5,dado,execucao,sub_028B46,1,lido pela CPU em sub_028B46
+$028F0A,$028F13,dado?,inferido,sub_028B46,0,buraco cercado dos dois lados por sub_028B46
+$028F18,$028F3F,dado?,inferido,sub_028B46,0,buraco cercado dos dois lados por sub_028B46
+$028F44,$028F6B,dado?,inferido,sub_028B46,0,buraco cercado dos dois lados por sub_028B46
+$028F70,$028F97,dado?,inferido,sub_028B46,0,buraco cercado dos dois lados por sub_028B46
+$028F99,$028FA3,dado?,inferido,sub_028B46,0,buraco cercado dos dois lados por sub_028B46
+$028FBE,$028FD9,dado,execucao,sub_028DEE,1,lido pela CPU em sub_028DEE
+$028FC2,$028FD5,dado?,inferido,sub_028DEE,0,buraco cercado dos dois lados por sub_028DEE
+$028FEA,$029027,dado,execucao,sub_028B46,1,lido pela CPU em sub_028B46
+$0290DE,$0290F3,dado,execucao,sub_028D54,1,lido pela CPU em sub_028D54
+$0290E0,$0290F1,dado?,inferido,sub_028D54,0,buraco cercado dos dois lados por sub_028D54
+$029138,$029149,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$029314,$02933B,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$02943C,$02944F,dado,execucao,sub_0292CA,1,lido pela CPU em sub_0292CA
+$029628,$029631,dado,execucao,sub_0295EC,1,lido pela CPU em sub_0295EC
+$029632,$02968B,dado?,inferido,sub_0295EC,0,buraco cercado dos dois lados por sub_0295EC
+$02968C,$02969E,dado,execucao,sub_0295EC,1,lido pela CPU em sub_0295EC
+$029692,$029695,dado?,inferido,sub_0295EC,0,buraco cercado dos dois lados por sub_0295EC
+$02969F,$029721,dado?,inferido,sub_0295EC,0,buraco cercado dos dois lados por sub_0295EC
+$029722,$029739,dado,execucao,sub_0295EC,1,lido pela CPU em sub_0295EC
+$029724,$02972B,dado?,inferido,sub_0295EC,0,buraco cercado dos dois lados por sub_0295EC
+$02A5D2,$02A62F,dado,execucao,sub_02A49C,1,lido pela CPU em sub_02A49C
+$02A630,$02A64F,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$02A650,$02A67B,dado,execucao,sub_02A37E,1,lido pela CPU em sub_02A37E
+$02A7B0,$02A7CF,dado,execucao,sub_013C10,1,lido pela CPU em sub_013C10
+$02A8E6,$02A8F5,dado,execucao,sub_0044BA,1,lido pela CPU em sub_0044BA
+$02A8F8,$02FFFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$030000,$031BE5,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$03006E,$030071,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030194,$030197,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030206,$030209,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03028E,$030291,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0302A0,$0302A5,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030322,$030325,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0303A6,$0303A9,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0303BE,$0303C5,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0303C8,$0303CB,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030422,$030427,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03051E,$030521,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03055C,$030563,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030692,$030699,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0306B0,$0306B3,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0306EE,$0306F7,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03071C,$030725,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03074A,$03074D,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030776,$030779,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0307C0,$0307C3,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03082A,$030833,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030836,$030841,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030844,$030855,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03085E,$030865,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03086C,$030887,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03088C,$03088F,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0308E8,$0308F1,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0308F8,$0308FB,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03090C,$030911,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030966,$03096D,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0309CC,$0309D5,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0309DA,$0309DD,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0309E4,$0309EB,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0309F4,$0309FB,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030A52,$030A57,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030A66,$030A85,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030D3E,$030D4F,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$030E28,$030E5B,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03124E,$031257,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$031856,$031867,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03188A,$0318A3,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$031BE6,$031C29,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$031C2A,$0322B7,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$031FD8,$031FF9,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03222C,$03223D,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0322B8,$032303,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$032304,$032B09,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$0323C0,$0323E1,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$032558,$032579,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$032A58,$032A8B,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$032B0A,$032B5F,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$032B60,$033433,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$033434,$033487,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$033488,$034E55,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$033896,$0338B7,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$033A68,$033A91,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$033B90,$033BAB,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$033BFA,$033C0B,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$033CB8,$033CDF,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$033CF2,$033D15,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$033F06,$033F1F,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$033F78,$033F89,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$034014,$034049,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0341A0,$0341B1,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03421E,$03422F,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0342A2,$0342BB,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0345D6,$0345E7,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$034696,$0346AF,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03485C,$03487D,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$034B00,$034B13,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$034E56,$034E9D,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$034E9E,$035C83,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$034ED4,$034EF5,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$034F44,$034F65,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03518C,$0351AD,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0352EE,$0352FF,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0353B6,$0353CF,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$035616,$03562F,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$035C84,$035CEB,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$035CEC,$036805,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$035D9A,$035DAD,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$035EB6,$035EC7,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$035F40,$035F7B,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$036078,$0360A9,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0364B4,$0364C7,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$036510,$036519,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$036722,$03672B,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$036740,$036751,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$036766,$03676F,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$036806,$036869,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03686A,$0378C9,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$037884,$0378AB,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0378CA,$0379D5,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0379D6,$037CBB,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$0379EA,$0379FD,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$037B74,$037B7D,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$037CA8,$037CB1,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$037CBC,$037DAD,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$037DAE,$037E3B,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$037DD0,$037E09,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$037E3C,$037EB7,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$037EB8,$03882F,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$037EEA,$037F1B,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$038028,$03805D,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$03828C,$0382B5,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0383AA,$0383D1,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$038830,$038881,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$038882,$0388DF,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$038896,$0388A9,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$0388E0,$038947,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$038948,$0389AF,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$0389B0,$038A17,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$038A18,$038EE1,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$038D26,$038D47,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$038D66,$038D83,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$038EE2,$038F81,dado?,inferido,sub_0016A8,0,buraco cercado dos dois lados por sub_0016A8
+$038F82,$038FCF,dado,execucao,sub_0016A8,1,lido pela CPU em sub_0016A8
+$038FD0,$038FEF,dado,execucao,sub_000C8A,1,lido pela CPU em sub_000C8A
+$038FF0,$03902F,dado,execucao,sub_000C3C,1,lido pela CPU em sub_000C3C
+$039030,$03908F,dado,execucao,sub_001AFE,1,lido pela CPU em sub_001AFE
+$0390B0,$0390CF,dado,execucao,sub_001A10,1,lido pela CPU em sub_001A10
+$0390D0,$03918F,dado,execucao,sub_001AFE,1,lido pela CPU em sub_001AFE
+$0390F0,$03910F,dado?,inferido,sub_001AFE,0,buraco cercado dos dois lados por sub_001AFE
+$039130,$03916F,dado?,inferido,sub_001AFE,0,buraco cercado dos dois lados por sub_001AFE
+$039190,$03928F,dado,execucao,sub_001A10,1,lido pela CPU em sub_001A10
+$039210,$03922F,dado?,inferido,sub_001A10,0,buraco cercado dos dois lados por sub_001A10
+$039290,$03930F,dado,execucao,sub_001AFE,1,lido pela CPU em sub_001AFE
+$039310,$03936F,dado,execucao,sub_001A10,1,lido pela CPU em sub_001A10
+$039370,$03938F,dado,execucao,sub_001AFE,1,lido pela CPU em sub_001AFE
+$039390,$0393AF,dado,execucao,sub_001A10,1,lido pela CPU em sub_001A10
+$0393B0,$0393CF,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0393D0,$03950F,dado,execucao,sub_001AFE,1,lido pela CPU em sub_001AFE
+$039520,$03952F,preenchimento,constante,-,0,corrida de $00 nunca lida
+$039530,$03958F,dado,execucao,sub_001BAC,1,lido pela CPU em sub_001BAC
+$039590,$03CFFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$03D004,$03D15E,dado,execucao,sub_002156,1,lido pela CPU em sub_002156
+$03D166,$03DB99,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$03DB9C,$03E06F,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$03E072,$03E3EF,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$03E3F2,$03E565,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$03E568,$03E63B,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$03E63E,$03E85C,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$03E860,$03EC1A,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$03EC1E,$03ECB8,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$03ECBC,$03EDC0,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$03EE32,$03FE2B,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$03FE2C,$03FEA5,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$03FEA6,$03FF1D,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$03FF1E,$040011,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$040012,$0401E9,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$040300,$0403FF,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$040318,$04031F,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$040325,$04032E,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$040338,$04033D,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$040346,$040349,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$04034B,$04034E,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$040356,$04035B,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$04036A,$04036F,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$04037B,$040380,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$040389,$040391,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$0403B7,$0403D5,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$0403D9,$0403EE,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$0403F0,$0403FE,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$04044C,$04083F,lz_stream,execucao,sub_001DAE,5,fluxo comprimido lido por LzDecompressB
+$040842,$041CF2,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$041CF6,$042EB2,lz_stream,execucao,sub_001E7C,5,fluxo comprimido lido por LzDecompressA
+$042EB6,$043F8A,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$043F8E,$0440EC,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0440F0,$044747,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$04474A,$045326,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$04532A,$046454,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$046458,$04744C,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$047450,$047C41,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$047C44,$0480F5,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0480F6,$04825D,dado,execucao,sub_001FD4,1,lido pela CPU em sub_001FD4
+$048260,$04945C,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$049460,$04A180,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$04A184,$04B2BC,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$04B2C0,$04BD32,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$04BD36,$04BF9E,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$04BFA0,$04C107,dado,execucao,sub_001FD4,1,lido pela CPU em sub_001FD4
+$04C10A,$04D3C1,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$04D3C4,$04DE07,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$04DE0A,$04E259,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$04E25A,$04E3C1,dado,execucao,sub_001FD4,1,lido pela CPU em sub_001FD4
+$04E3C4,$04F539,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$04F53C,$05041B,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$05041E,$05183F,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$051842,$0529E1,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0529E4,$053037,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$053038,$05319F,dado,execucao,sub_001FD4,1,lido pela CPU em sub_001FD4
+$0531A2,$0543BB,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0543BE,$05471D,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$054720,$055BA6,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$055BAA,$056EB6,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$056EBA,$057466,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$057468,$0575CF,dado,execucao,sub_001FD4,1,lido pela CPU em sub_001FD4
+$0575D2,$0587B2,lz_stream,execucao,sub_001DAE,5,fluxo comprimido lido por LzDecompressB
+$0587B6,$058D3F,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$058D42,$059E8A,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$059E8E,$05AFFC,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$05B000,$05B3AF,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$05B3B0,$05B517,dado,execucao,sub_001FD4,1,lido pela CPU em sub_001FD4
+$05B51A,$05C765,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$05C768,$05D1ED,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$05D1F0,$05E335,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$05E338,$05F498,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$05F49C,$05FABA,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$05FABC,$05FC23,dado,execucao,sub_001FD4,1,lido pela CPU em sub_001FD4
+$05FC26,$060F48,lz_stream,execucao,sub_001DAE,5,fluxo comprimido lido por LzDecompressB
+$060F4C,$061E22,lz_stream,execucao,sub_001E7C,5,fluxo comprimido lido por LzDecompressA
+$061E26,$06313B,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06313E,$064108,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06410C,$064609,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06460A,$064771,dado,execucao,sub_001FD4,1,lido pela CPU em sub_001FD4
+$064774,$065AC9,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$065ACC,$06612A,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06612E,$06665B,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06665C,$0667C3,dado,execucao,sub_001FD4,1,lido pela CPU em sub_001FD4
+$0667C6,$067A6F,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$067A72,$06885F,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$068862,$0698E9,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0698EC,$06AC83,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06AC86,$06B30A,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06B30C,$06B473,dado,execucao,sub_001FD4,1,lido pela CPU em sub_001FD4
+$06B476,$06C16A,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06C16E,$06D18F,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06D192,$06E40E,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06E412,$06EB4F,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$06EB50,$06FFFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$070000,$073F83,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$073F84,$074123,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$074124,$0754A1,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0754A2,$075799,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$07579A,$076915,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$076916,$076FFF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$076916,$076FFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$077000,$07C927,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$07C928,$07CFFF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$07C928,$07CFFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$07D000,$081287,audio,execucao,RleUnpack,5,buscado pela janela de banco do Z80 em RleUnpack
+$081288,$0814D5,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0814D6,$0838C3,audio,execucao,RleUnpack,5,buscado pela janela de banco do Z80 em RleUnpack
+$0838C4,$083FFF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0838C4,$083FFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$084000,$084775,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$084776,$084AA1,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$084AA2,$088929,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$08533E,$08535F,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$08892A,$088BDF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$088BE0,$08B031,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$08B032,$08B2B7,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$08B2B8,$08BF0B,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$08BF0C,$08C487,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$08C488,$08EBA7,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$08EBA8,$08FFFF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$08EBA8,$08FFFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$090000,$092363,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$092364,$09252F,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$092530,$095153,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$095154,$095385,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$095386,$095F7B,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$095F7C,$095FFF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$095F7C,$095FFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$096000,$09F933,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$09F934,$09FD33,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$09FD34,$0A1ABF,audio,execucao,RleUnpack,5,buscado pela janela de banco do Z80 em RleUnpack
+$0A1AC0,$0A1BD9,preenchimento,constante,-,0,corrida de $FF nunca lida
+$0A1BDA,$0A1C60,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0A1C61,$0A7FFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$0A8000,$0AAA3D,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0AAA3E,$0AABEF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0AABF0,$0ACD27,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0ACD28,$0ACEEF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0ACEF0,$0AD9FF,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0ADA00,$0ADDAD,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0ADDAE,$0AE017,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0AE018,$0AE0FF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0AE018,$0AE0FF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$0AE100,$0B08E1,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0B08E2,$0B0A9B,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0B0A9C,$0B0C4F,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0B0C50,$0B0DC1,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0B0DC2,$0B1277,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0B1278,$0B13DF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0B13E0,$0B22B3,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0B22B4,$0B2739,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0B273A,$0B45C5,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0B45C6,$0B46D9,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0B46DA,$0B4E5B,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0B4E5C,$0B4FFF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0B4E5C,$0B4FFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$0B5000,$0B5773,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0B5774,$0B5919,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0B591A,$0B775F,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0B7760,$0B798B,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0B798C,$0B8FF7,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0B8FF8,$0B91DF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0B91E0,$0B9EBB,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0B9EBC,$0BA09D,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0BA09E,$0BB8FB,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0BB8FC,$0BBFFF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0BB8FC,$0BBFFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$0BC000,$0BD835,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0BD836,$0BD993,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0BD994,$0C00FF,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C013B,$0C0145,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C0148,$0C014F,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C0151,$0C0168,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C018E,$0C01AE,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C01E7,$0C01F5,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C01FF,$0C07ED,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C07EE,$0C0B61,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0C0B62,$0C1473,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C1474,$0C1FFF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0C1474,$0C1FFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$0C2000,$0C4921,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C4922,$0C4C73,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0C4C74,$0C6067,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C6068,$0C616D,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0C616E,$0C91C9,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0C91CA,$0C9FFF,dado?,inferido,RleUnpack,0,buraco cercado dos dois lados por RleUnpack
+$0C91CA,$0C9FFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$0CA000,$0CF783,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0CFFB2,$0CFFFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$0D0002,$0D069B,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D069E,$0D15D6,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D15DA,$0D23DB,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D23DE,$0D244C,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D244E,$0D254D,dado,execucao,sub_0250CE,1,lido pela CPU em sub_0250CE
+$0D254E,$0D26BD,dado,execucao,sub_025064,1,lido pela CPU em sub_025064
+$0D26BE,$0D278D,dado,execucao,sub_0250CE,1,lido pela CPU em sub_0250CE
+$0D27D0,$0D3603,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D3604,$0D3703,dado,execucao,sub_001F50,1,lido pela CPU em sub_001F50
+$0D3706,$0D3711,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3714,$0D3791,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3794,$0D3811,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3814,$0D3891,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3894,$0D3911,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3914,$0D3991,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3994,$0D3A11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3A14,$0D3A91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3A94,$0D3B11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3B14,$0D3B91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3B94,$0D3C11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3C14,$0D3C91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3C94,$0D3D11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3D14,$0D3D91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3D94,$0D3E11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3E14,$0D3E91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3E94,$0D3F11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3F14,$0D3F91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D3F94,$0D4011,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4014,$0D4091,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4094,$0D4111,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4114,$0D4191,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4194,$0D4211,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4214,$0D4291,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4294,$0D42DE,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D42E2,$0D4311,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4314,$0D4391,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4394,$0D4411,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4414,$0D4491,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4494,$0D4511,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4514,$0D4591,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4594,$0D4611,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4614,$0D462E,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4632,$0D4691,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4694,$0D4711,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4714,$0D4791,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4794,$0D4811,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4814,$0D4891,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4894,$0D4911,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4914,$0D4991,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4994,$0D4A11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4A14,$0D4A91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4A94,$0D4B11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4B14,$0D4B91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4B94,$0D4C11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4C14,$0D4C91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D4C9A,$0D4D11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D4D14,$0D4D91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D4D94,$0D4E11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D4E14,$0D4E91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D4E94,$0D4F11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D4F14,$0D4F91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D4F94,$0D5011,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D5014,$0D5091,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D5094,$0D5111,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D5114,$0D5191,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D5194,$0D5211,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D5214,$0D5291,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D5294,$0D5311,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D5314,$0D5391,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D539C,$0D5411,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5414,$0D5429,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D542C,$0D5491,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5494,$0D5511,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5514,$0D5591,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5594,$0D5611,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5614,$0D5691,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5694,$0D5711,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5714,$0D5791,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5794,$0D5811,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5814,$0D5891,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5894,$0D5911,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5914,$0D5991,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5994,$0D5A11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5A14,$0D5A91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5A94,$0D5B11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5B14,$0D5B91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5B94,$0D5C11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5C14,$0D5C91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5C94,$0D5D11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5D14,$0D5D91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5D94,$0D5E11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5E14,$0D5E91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5E94,$0D5F11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5F14,$0D5F91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D5F94,$0D6011,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6014,$0D6091,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6094,$0D6111,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6114,$0D6191,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6194,$0D61A5,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D61A8,$0D6211,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6214,$0D6291,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6294,$0D6311,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6314,$0D6391,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6394,$0D6411,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6414,$0D6491,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6494,$0D6511,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6514,$0D6591,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6594,$0D6611,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6614,$0D6691,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6694,$0D6711,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6714,$0D6791,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6794,$0D6811,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6814,$0D6891,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6894,$0D6911,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6914,$0D6991,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6994,$0D6A11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6A14,$0D6A91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6A94,$0D6B11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6B14,$0D6B91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6B94,$0D6C11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6C14,$0D6C91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6C94,$0D6D11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6D14,$0D6D91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6D94,$0D6E11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6E14,$0D6E91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6E94,$0D6F11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6F14,$0D6F91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D6F94,$0D7011,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7014,$0D7091,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7094,$0D7111,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7114,$0D7191,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7194,$0D7211,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7214,$0D7291,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7294,$0D7311,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7314,$0D7391,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7394,$0D7411,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7414,$0D7491,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7494,$0D74A7,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D74AA,$0D7511,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7514,$0D7591,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7594,$0D7611,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7614,$0D7691,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7694,$0D7711,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7714,$0D7791,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7794,$0D7811,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7814,$0D7891,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7894,$0D7911,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7914,$0D7991,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7994,$0D7A11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7A14,$0D7A91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7A94,$0D7B11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7B14,$0D7B91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7B94,$0D7C11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7C14,$0D7C91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7C94,$0D7D11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7D14,$0D7D91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7D94,$0D7E11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7E14,$0D7E91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7E94,$0D7F11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7F14,$0D7F91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D7F94,$0D8011,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8014,$0D8091,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8094,$0D8111,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8114,$0D8191,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8194,$0D8211,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8214,$0D822A,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D822E,$0D8291,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8294,$0D8311,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8314,$0D8391,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8394,$0D8411,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8414,$0D8491,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8494,$0D8511,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8514,$0D8591,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8594,$0D8611,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8614,$0D8691,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8694,$0D8711,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8714,$0D8791,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8794,$0D8811,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8814,$0D8887,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8888,$0D8891,dado,execucao,sub_001F50,1,lido pela CPU em sub_001F50
+$0D8894,$0D8911,dado,execucao,sub_001F50,1,lido pela CPU em sub_001F50
+$0D8914,$0D8991,dado,execucao,sub_001F50,1,lido pela CPU em sub_001F50
+$0D8994,$0D8A11,dado,execucao,sub_001F50,1,lido pela CPU em sub_001F50
+$0D8A14,$0D8A47,dado,execucao,sub_001F50,1,lido pela CPU em sub_001F50
+$0D8A48,$0D8A91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D8A94,$0D8B11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D8B14,$0D8B91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D8B94,$0D8C11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D8C14,$0D8C91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D8C94,$0D8D11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D8D14,$0D8D91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D8D94,$0D8E11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D8E14,$0D8E91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D8E94,$0D8F11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0D8F16,$0D8F91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D8F94,$0D9011,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9014,$0D9091,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9094,$0D90D5,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D90D8,$0D9111,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9114,$0D9191,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9194,$0D9211,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9214,$0D9291,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9294,$0D92E0,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D92E4,$0D9311,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9314,$0D9391,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9394,$0D9411,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9414,$0D9463,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9466,$0D9491,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9494,$0D9511,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9514,$0D9591,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9594,$0D95C3,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D95C6,$0D9611,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9614,$0D9691,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9694,$0D9711,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9714,$0D9791,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9798,$0D9811,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9814,$0D9891,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9894,$0D9911,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9914,$0D9991,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9996,$0D9A11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9A14,$0D9A91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9A94,$0D9AF6,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9AFA,$0D9B11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9B14,$0D9B91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9B94,$0D9C11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9C14,$0D9C42,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9C46,$0D9C91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9C94,$0D9D11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9D14,$0D9D63,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9D66,$0D9D91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9D94,$0D9E11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9E14,$0D9E91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9E94,$0D9EA6,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9EAA,$0D9F11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9F14,$0D9F91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0D9F94,$0DA011,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DA014,$0DA01E,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DA022,$0DA091,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DA094,$0DA111,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DA114,$0DA14C,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DA150,$0DA163,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DA194,$0DA211,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA214,$0DA291,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA294,$0DA311,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA314,$0DA391,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA394,$0DA411,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA414,$0DA491,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA494,$0DA511,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA514,$0DA591,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA594,$0DA611,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA614,$0DA691,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA6E8,$0DA711,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DA714,$0DA731,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DA794,$0DA811,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA814,$0DA891,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA894,$0DA911,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA914,$0DA991,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DA994,$0DAA11,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DAA50,$0DAA91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAA94,$0DAB11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAB14,$0DAB91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAB94,$0DAC11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAC14,$0DAC91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAC94,$0DAD11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAD14,$0DAD91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAD94,$0DAE11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAE14,$0DAE91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAE94,$0DAF11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAF14,$0DAF91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DAF94,$0DB011,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB014,$0DB091,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB094,$0DB111,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB114,$0DB191,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB194,$0DB211,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB214,$0DB291,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB294,$0DB311,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB314,$0DB391,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB394,$0DB411,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB414,$0DB491,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB494,$0DB511,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB514,$0DB591,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB594,$0DB611,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB614,$0DB691,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB694,$0DB711,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB714,$0DB791,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB794,$0DB811,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB814,$0DB891,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB894,$0DB911,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB914,$0DB991,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DB994,$0DBA11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DBA14,$0DBA91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DBA94,$0DBB11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DBB14,$0DBB91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DBB94,$0DBC11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DBC14,$0DBC91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DBC94,$0DBD11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DBD14,$0DBD91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DBD94,$0DBDAB,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DBE14,$0DBE91,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DBE94,$0DBF11,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DBF14,$0DBF91,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DBF94,$0DC011,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC014,$0DC091,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC094,$0DC111,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC114,$0DC191,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC194,$0DC211,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC214,$0DC291,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC294,$0DC311,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC314,$0DC391,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC394,$0DC411,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC414,$0DC491,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC494,$0DC511,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC514,$0DC591,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC594,$0DC611,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC614,$0DC691,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC694,$0DC711,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC714,$0DC791,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC794,$0DC811,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC814,$0DC891,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC894,$0DC911,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC914,$0DC991,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DC994,$0DCA11,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCA14,$0DCA91,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCA94,$0DCB11,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCB14,$0DCB91,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCB94,$0DCC11,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCC14,$0DCC91,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCC94,$0DCD11,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCD14,$0DCD91,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCD94,$0DCE11,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCE14,$0DCE91,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCE94,$0DCF11,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCF14,$0DCF91,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DCF94,$0DD011,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DD014,$0DD091,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DD094,$0DD111,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DD114,$0DD191,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DD194,$0DD211,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DD214,$0DD291,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DD294,$0DD311,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DD314,$0DD391,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DD394,$0DD411,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DD414,$0DD491,dado?,inferido,sub_021600,0,buraco cercado dos dois lados por sub_021600
+$0DD502,$0DD511,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DD514,$0DD584,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DD588,$0DE657,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DE65A,$0DF49A,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF49E,$0DF511,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF514,$0DF591,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF594,$0DF611,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF614,$0DF691,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF694,$0DF711,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF714,$0DF791,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF794,$0DF811,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF814,$0DF891,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF894,$0DF911,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF914,$0DF991,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DF994,$0DFA11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DFA14,$0DFA91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DFA94,$0DFB11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DFB14,$0DFB91,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DFB94,$0DFC11,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DFC14,$0DFC83,lz_stream,execucao,sub_001E7C,1,fluxo comprimido lido por LzDecompressA
+$0DFC86,$0DFC91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DFC94,$0DFD11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DFD14,$0DFD91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DFD94,$0DFE11,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DFE14,$0DFE91,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DFE94,$0DFEFA,lz_stream,execucao,sub_001DAE,1,fluxo comprimido lido por LzDecompressB
+$0DFEFC,$0E0BAF,dado,execucao,RleUnpack,1,lido pela CPU em RleUnpack
+$0E0EC6,$0E4FFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$0E5222,$0E5229,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0E5281,$0E528F,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0E5292,$0E52BD,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0E69E7,$0E7089,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0E7097,$0E70A8,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0E70C8,$0E70E7,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0E71E6,$0E7257,preenchimento,constante,-,0,corrida de $00 nunca lida
+$0E7258,$0E7FFF,preenchimento,constante,-,0,corrida de $FF nunca lida
+$0E8000,$0E8033,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E8035,$0E8040,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E8042,$0E804B,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E8068,$0E8072,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E8074,$0E807B,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E807D,$0E808B,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E80B9,$0E80FF,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E8100,$0E8107,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0E8109,$0E8133,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0E8137,$0E813E,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0E8143,$0E814B,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0E816C,$0E817B,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0E81B9,$0E81C5,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0E81C7,$0E81CF,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0E81D8,$0E81E9,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0E81F2,$0E8200,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0E82F8,$0E8320,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E834C,$0E8354,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E835C,$0E8364,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E83AE,$0E83BD,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E83E3,$0E83EF,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E83F1,$0E840A,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E842B,$0E8434,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E8474,$0E847F,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0E84BB,$0E84C7,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E84F5,$0E855D,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E8591,$0E85A8,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E85AA,$0E85FF,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0E8601,$0E862E,audio,execucao,z80:$0C7B,4,buscado pela janela de banco do Z80 em z80:$0C7B
+$0E8A8C,$0E8ADF,audio,execucao,z80:$15DD,4,buscado pela janela de banco do Z80 em z80:$15DD
+$0E8A8D,$0E8A90,dado?,inferido,z80:$15DD,0,buraco cercado dos dois lados por z80:$15DD
+$0E8B00,$0E8D30,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E8D31,$0E8DB6,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E8DB7,$0E8F5E,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E8F5F,$0E8F76,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E8F77,$0E9722,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E9723,$0E974C,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E974D,$0E9786,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E9787,$0E9805,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E9806,$0E9815,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0E9816,$0E98F0,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E98F1,$0E98FC,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0E98FD,$0E990B,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E990C,$0E9921,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E9922,$0E9970,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E9971,$0E998A,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E998B,$0E9994,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0E999C,$0E99A6,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0E99A7,$0E9A25,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E9A26,$0E9A40,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E9A41,$0E9AEF,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E9AF7,$0E9B0A,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E9B0B,$0E9B7A,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E9B7B,$0E9B83,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E9B84,$0E9B91,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0E9B92,$0E9BDE,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E9BDF,$0E9C5D,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0E9C5E,$0E9F57,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0E9F58,$0E9FB1,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0E9FB2,$0EA02C,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0EA02D,$0EA0A2,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0EA0A3,$0EA0AA,preenchimento,constante,-,0,corrida de $20 nunca lida
+$0EA63F,$0EA657,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0EA7A5,$0EA7E7,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0EB3F2,$0EB412,audio,execucao,z80:$0D31,4,buscado pela janela de banco do Z80 em z80:$0D31
+$0EB3F3,$0EB411,dado?,inferido,z80:$0D31,0,buraco cercado dos dois lados por z80:$0D31
+$0EB41F,$0EB97E,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0EB97F,$0EB9A5,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0EB9A6,$0EBA0D,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0EBA0E,$0EBA2C,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0EBA2D,$0EBA74,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0EBA75,$0EC161,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0EC162,$0ED85D,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0ED85E,$0EE3F9,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0EE3FA,$0EE90D,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0F0000,$0F0040,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F0042,$0F004F,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F0055,$0F005D,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F00B1,$0F00B9,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F00BB,$0F00FF,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F0100,$0F0114,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F01E3,$0F0215,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F02AE,$0F02BD,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F02EB,$0F0315,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F0317,$0F032A,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F0332,$0F033B,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F034A,$0F0360,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F0362,$0F036A,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F03B4,$0F03BF,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F03C1,$0F03E3,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F03EB,$0F0440,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F0442,$0F044F,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F0455,$0F045D,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F04B1,$0F04FF,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F0500,$0F0549,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F0550,$0F0559,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F0581,$0F058C,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F05B3,$0F05FF,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F0601,$0F061D,audio,execucao,z80:$0C7B,4,buscado pela janela de banco do Z80 em z80:$0C7B
+$0F061E,$0F0722,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0F0A81,$0F0AE1,audio,execucao,z80:$15DD,4,buscado pela janela de banco do Z80 em z80:$15DD
+$0F0B00,$0F0B43,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0F0B44,$0F1722,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0F1724,$0F1BDE,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0F1BDF,$0F1C1F,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0F1C25,$0F2855,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0F2856,$0F2BC8,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0F2BC9,$0F32A0,audio,execucao,z80:$05E2,4,buscado pela janela de banco do Z80 em z80:$05E2
+$0F32A1,$0F6D2E,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0F8000,$0F8064,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F8077,$0F807F,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F8085,$0F808C,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F8092,$0F809A,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F809C,$0F80A7,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F80A0,$0F80A3,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$0F80AA,$0F80FF,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F8100,$0F813B,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F816B,$0F8172,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F8177,$0F8181,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F819C,$0F81A7,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F81A0,$0F81A3,dado?,inferido,z80:$05DA,0,buraco cercado dos dois lados por z80:$05DA
+$0F81B1,$0F8215,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F8217,$0F8220,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F8222,$0F822A,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F8232,$0F823A,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F8277,$0F827F,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F82CE,$0F82DC,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F82EB,$0F82FF,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F8300,$0F8314,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F836E,$0F837F,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F8396,$0F83A5,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F83A0,$0F83A3,dado?,inferido,z80:$05EE,0,buraco cercado dos dois lados por z80:$05EE
+$0F83B1,$0F83BD,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F83CE,$0F83DB,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F83DE,$0F83F1,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F83F3,$0F83FF,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F8400,$0F843C,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F846B,$0F8472,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F8477,$0F8487,audio,execucao,z80:$05DA,4,buscado pela janela de banco do Z80 em z80:$05DA
+$0F84B1,$0F84FF,audio,execucao,z80:$05EE,4,buscado pela janela de banco do Z80 em z80:$05EE
+$0F8500,$0F85FF,audio,execucao,z80:$060E,4,buscado pela janela de banco do Z80 em z80:$060E
+$0F85A0,$0F85A3,dado?,inferido,z80:$060E,0,buraco cercado dos dois lados por z80:$060E
+$0F8601,$0F8627,audio,execucao,z80:$0C7B,4,buscado pela janela de banco do Z80 em z80:$0C7B
+$0F8A80,$0F8AEE,audio,execucao,z80:$15DD,4,buscado pela janela de banco do Z80 em z80:$15DD
+$0F8B01,$0F9722,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0F9723,$0F9BDE,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0F9BDF,$0F9C38,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0F9C3C,$0FA0A2,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603
+$0FA1B3,$0FA2AA,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0FA2E1,$0FA34E,audio,execucao,z80:$05CE,4,buscado pela janela de banco do Z80 em z80:$05CE
+$0FFFEB,$0FFFFF,audio,execucao,z80:$0603,4,buscado pela janela de banco do Z80 em z80:$0603

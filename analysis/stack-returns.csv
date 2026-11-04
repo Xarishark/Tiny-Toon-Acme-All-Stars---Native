@@ -1,0 +1,2 @@
+address,name,notes
+$001572,DisplayListEnd,"Handler do opcode 0 do interpretador de lista de VDP ($00155E). Desempilha um long em d0 e em seguida executa rts: desempilha o proprio endereco de retorno e retorna DOIS niveis acima, saindo do laco em $00153C. E' o mecanismo de 'fim de lista'. Verificado: a funcao nao empilha nada antes, entao o que ela desempilha so' pode ser o retorno."

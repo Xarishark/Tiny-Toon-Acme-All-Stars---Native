@@ -1,0 +1,137 @@
+site,routine,source,variant,compressed,decompressed,tiles,note
+$004092,VdpUpload,$03ECBA,a,263,512,16,
+$0040C6,VdpUpload,$03E3F0,a,374,768,24,
+$0040D6,VdpUpload,$03E63C,a,545,2048,64,
+$004144,VdpUpload,$004254,a,1116,1830,,saida nao e' multipla de 32 bytes
+$0042B2,VdpUpload,$03E3F0,a,,,,mesmo fluxo de $0040C6
+$0042C0,VdpUpload,$03EC1C,a,157,352,11,
+$014580,VdpUpload,$03E566,a,214,256,8,
+$0153A6,VdpUpload,$03DB9A,a,1238,4096,128,
+$01C614,VdpUpload,$044748,a,3039,8192,256,
+$01C624,VdpUpload,$045328,a,4397,8192,256,
+$01C634,VdpUpload,$046456,a,4087,8192,256,
+$01C646,VdpUpload,$04744E,a,2036,4704,147,
+$01C740,VdpUpload,$03E85E,a,957,4768,149,
+$01D34A,VdpUpload,$040840,a,5299,8192,256,
+$01D35A,VdpUpload,$041CF4,a,4543,7616,238,
+$01D36A,VdpUpload,$042EB4,a,4311,8192,256,
+$01D37A,VdpUpload,$0DD586,a,4306,8192,256,
+$01D38C,VdpUpload,$0DE658,a,3651,7168,224,
+$01D6F4,VdpUpload,$043F8C,a,353,672,21,
+$01DFEC,VdpUpload,$040840,a,,,,mesmo fluxo de $01D34A
+$01DFFC,VdpUpload,$041CF4,a,,,,mesmo fluxo de $01D35A
+$01E00C,VdpUpload,$042EB4,a,,,,mesmo fluxo de $01D36A
+$01E01C,VdpUpload,$0DD586,a,,,,mesmo fluxo de $01D37A
+$01E02E,VdpUpload,$0DE658,a,,,,mesmo fluxo de $01D38C
+$01E040,VdpUpload,$0E0BB0,a,789,3584,112,
+$01E0D0,VdpUpload,$03DB9A,a,,,,mesmo fluxo de $0153A6
+$01E4B0,VdpUpload,$044748,a,,,,mesmo fluxo de $01C614
+$01E4C0,VdpUpload,$046456,a,,,,mesmo fluxo de $01C634
+$01E4D2,VdpUpload,$04744E,a,,,,mesmo fluxo de $01C646
+$0205FC,VdpUpload,$03E3F0,a,,,,mesmo fluxo de $0040C6
+$02060E,VdpUpload,$03E63C,a,,,,mesmo fluxo de $0040D6
+$02061E,VdpUpload,$0D0000,a,1692,5632,176,
+$02062E,VdpUpload,$0D069C,a,3899,7296,228,
+$020640,VdpUpload,$0D15D8,a,3588,7424,232,
+$020650,VdpUpload,$0D23DC,a,113,256,8,
+$020660,VdpUpload,$03DB9A,a,,,,mesmo fluxo de $0153A6
+$0257DE,VdpUpload,,a,,,,ponteiro nao resolvido
+$026C8A,VdpUpload,$0DD500,a,133,256,8,
+$026C9A,VdpUpload,$03E3F0,a,,,,mesmo fluxo de $0040C6
+$026CAA,VdpUpload,$0D542A,a,3452,5632,176,
+$026CBA,VdpUpload,$0D61A6,a,4866,8192,256,
+$026CCC,VdpUpload,$0D74A8,a,3459,7136,223,
+$026CDC,VdpUpload,$0D822C,a,1628,2624,82,
+$026CEE,VdpUpload,$03E63C,a,,,,mesmo fluxo de $0040D6
+$028BA8,VdpUpload,$03E070,a,896,2048,64,
+$028BB8,VdpUpload,$03E3F0,a,,,,mesmo fluxo de $0040C6
+$028C74,VdpUpload,$03DB9A,a,,,,mesmo fluxo de $0153A6
+$028D3A,VdpUpload,$0DD494,a,107,192,6,
+$028D4A,VdpUpload,$0DC82A,a,1972,5120,160,
+$028EEC,VdpUpload,,a,,,,ponteiro nao resolvido
+$0291B4,VdpUpload,$0DE658,a,,,,mesmo fluxo de $01D38C
+$02A518,VdpUpload,,a,,,,ponteiro nao resolvido
+$02A730,VdpUpload,$0DF49C,a,2024,4032,126,
+$0040F6,LzDecompressB,$04048C,b,476,1120,35,
+$004106,LzDecompressB,$04044A,b,66,256,8,
+$004138,LzDecompressB,,b,,,,ponteiro nao resolvido
+$01C66E,LzDecompressB,$047C42,b,461,1216,38,
+$01C68E,LzDecompressB,$048054,b,56,256,8,
+$01C6B6,LzDecompressB,$047E10,b,519,1408,44,
+$01C6C8,LzDecompressB,$04808C,b,106,256,8,
+$01C752,LzDecompressB,$0406B2,b,398,1248,39,
+$01C764,LzDecompressB,$040668,b,73,256,8,
+$01D3B4,LzDecompressB,$04411C,b,462,672,21,
+$01D3C6,LzDecompressB,$0440EE,b,45,256,8,
+$01D3EE,LzDecompressB,$044334,b,1044,1216,38,
+$01D400,LzDecompressB,$0442EA,b,73,256,8,
+$01E062,LzDecompressB,$044334,b,,,,mesmo fluxo de $01D3EE
+$01E074,LzDecompressB,$0442EA,b,,,,mesmo fluxo de $01D400
+$01E4FA,LzDecompressB,$047E10,b,,,,mesmo fluxo de $01C6B6
+$01E50C,LzDecompressB,$04808C,b,,,,mesmo fluxo de $01C6C8
+$0205C2,LzDecompressB,$04048C,b,,,,mesmo fluxo de $0040F6
+$0250B8,LzDecompressB,$0D27CE,b,3638,7936,248,
+$025802,LzDecompressB,$0D4D30,b,1641,2304,72,
+$025814,LzDecompressB,$0D4C98,b,117,256,8,
+$02583C,LzDecompressB,$0D4D0E,b,33,256,8,
+$026D12,LzDecompressB,$0D8D58,b,443,1824,57,
+$026D3C,LzDecompressB,$0D8A08,b,847,1568,49,
+$028EFC,LzDecompressB,,b,,,,ponteiro nao resolvido
+$02A546,LzDecompressB,$047E10,b,,,,mesmo fluxo de $01C6B6
+$02A558,LzDecompressB,$04808C,b,,,,mesmo fluxo de $01C6C8
+$02A764,LzDecompressB,$0DFCEE,b,525,1408,44,
+$02A776,LzDecompressB,$0DFC84,b,105,256,8,
+(tabela),scan,$037000,b,53,224,7,3.4 cores/tile
+(tabela),scan,$04945E,a,3363,5632,176,4.7 cores/tile
+(tabela),scan,$04A182,a,4411,8192,256,4.4 cores/tile
+(tabela),scan,$04B2BE,a,2677,8192,256,3.7 cores/tile
+(tabela),scan,$04BD34,a,619,2560,80,4.6 cores/tile
+(tabela),scan,$04DE08,a,1106,2560,80,4.5 cores/tile
+(tabela),scan,$04F53A,a,3810,5632,176,6.0 cores/tile
+(tabela),scan,$05041C,a,5156,8192,256,5.6 cores/tile
+(tabela),scan,$051840,a,4514,8192,256,5.0 cores/tile
+(tabela),scan,$0529E2,a,1622,2496,78,5.2 cores/tile
+(tabela),scan,$05471E,a,5257,8192,256,5.5 cores/tile
+(tabela),scan,$055BA8,a,4879,8192,256,5.4 cores/tile
+(tabela),scan,$056EB8,a,1455,2496,78,5.1 cores/tile
+(tabela),scan,$0587B4,a,1420,5632,176,3.9 cores/tile
+(tabela),scan,$058D40,a,4427,8192,256,3.6 cores/tile
+(tabela),scan,$059E8C,a,4465,8192,256,4.4 cores/tile
+(tabela),scan,$05AFFE,a,946,2560,80,3.1 cores/tile
+(tabela),scan,$05C766,a,2696,5632,176,4.6 cores/tile
+(tabela),scan,$05D1EE,a,4424,8192,256,3.6 cores/tile
+(tabela),scan,$05E336,a,4451,8192,256,4.1 cores/tile
+(tabela),scan,$05F49A,a,1569,2560,80,5.0 cores/tile
+(tabela),scan,$060006,a,374,1088,34,7.4 cores/tile
+(tabela),scan,$060F4A,a,3801,5632,176,5.7 cores/tile
+(tabela),scan,$061E24,a,4888,8192,256,5.5 cores/tile
+(tabela),scan,$06313C,a,4045,8192,256,4.6 cores/tile
+(tabela),scan,$06410A,a,1280,2560,80,4.8 cores/tile
+(tabela),scan,$06612C,a,1328,2560,80,5.5 cores/tile
+(tabela),scan,$067A70,a,3568,5632,176,6.3 cores/tile
+(tabela),scan,$068860,a,4234,8192,256,4.7 cores/tile
+(tabela),scan,$0698EA,a,5018,8192,256,4.9 cores/tile
+(tabela),scan,$06AC84,a,1671,2560,80,5.3 cores/tile
+(tabela),scan,$06B474,a,3319,5632,176,5.6 cores/tile
+(tabela),scan,$06C16C,a,4132,8192,256,5.0 cores/tile
+(tabela),scan,$06D190,a,4735,8192,256,4.5 cores/tile
+(tabela),scan,$06E410,a,1856,2560,80,5.9 cores/tile
+(tabela),scan,$08000E,a,262,352,11,5.1 cores/tile
+(tabela),scan,$09A000,b,53527,242496,7578,6.2 cores/tile
+(tabela),scan,$0C0006,a,42,96,3,7.0 cores/tile
+(tabela),scan,$0C000A,a,179,256,8,6.6 cores/tile
+(tabela),scan,$0D3704,a,3035,5632,176,5.2 cores/tile
+(tabela),scan,$0D42E0,a,847,1536,48,5.2 cores/tile
+(tabela),scan,$0D4630,a,1639,3552,111,4.6 cores/tile
+(tabela),scan,$0D539A,a,144,256,8,3.0 cores/tile
+(tabela),scan,$0DA6E6,b,76,256,8,6.8 cores/tile
+(tabela),scan,$0DA732,b,97,256,8,6.2 cores/tile
+(tabela),scan,$0DA794,b,70,256,8,5.1 cores/tile
+(tabela),scan,$0DA7DA,b,50,256,8,4.2 cores/tile
+(tabela),scan,$0DA80C,b,78,256,8,5.9 cores/tile
+(tabela),scan,$0DA85A,b,106,256,8,7.2 cores/tile
+(tabela),scan,$0DA8C4,b,76,256,8,5.4 cores/tile
+(tabela),scan,$0DA910,b,74,256,8,5.4 cores/tile
+(tabela),scan,$0DA95A,b,84,256,8,5.1 cores/tile
+(tabela),scan,$0DA9AE,b,72,256,8,5.9 cores/tile
+(tabela),scan,$0DA9F6,b,87,256,8,5.5 cores/tile

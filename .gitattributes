@@ -1,0 +1,25 @@
+# LF in the repository, always.
+#
+# This is not a style preference. A shell script checked out with CRLF does not
+# run on Linux or macOS at all: the kernel reads the shebang literally and tries
+# to execute an interpreter named "bash\r", and the error message never mentions
+# line endings. The Dockerfile fails the same way, more quietly.
+#
+# This cost a build here. Any contributor on Windows would hit it again without
+# these rules.
+* text=auto eol=lf
+
+*.sh      text eol=lf
+*.py      text eol=lf
+*.c       text eol=lf
+*.h       text eol=lf
+*.md      text eol=lf
+*.csv     text eol=lf
+*.json    text eol=lf
+Makefile  text eol=lf
+Dockerfile text eol=lf
+
+# Anything binary that does end up here must not be touched.
+*.png     binary
+*.ico     binary
+*.bin     binary

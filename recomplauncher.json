@@ -1,0 +1,323 @@
+{
+  "$schema": "https://recomplauncher.com/schema/recomplauncher.json",
+  "format": 1,
+  "name": "Tiny Toon Adventures: ACME All-Stars",
+  "repo": "rafarvns/Tiny-Toon-Acme-All-Stars---Native",
+  "game": {
+    "kind": "iso",
+    "label": "Your own ROM of the European cartridge (GM T-95146-00), as a raw 1 MB .bin file.",
+    "dumps": [
+      {
+        "name": "Europe",
+        "size": 1048576,
+        "crc32": "1227b2b2"
+      }
+    ]
+  },
+  "start": {
+    "program": [
+      "tinytoon.exe"
+    ],
+    "args": [
+      "{game}"
+    ]
+  },
+  "prepare": {
+    "program": [
+      "python/python.exe"
+    ],
+    "args": [
+      "{install}/montador/tools/montar_jogo.py",
+      "--rom",
+      "{game}",
+      "--saida",
+      "{install}"
+    ],
+    "label": "Building the game from your ROM (it is never downloaded)",
+    "timeout": 600
+  },
+  "config": [
+    {
+      "id": "main",
+      "format": "toml",
+      "file": [
+        {
+          "path": "{install}/tinytoon.toml"
+        }
+      ],
+      "game_path": "rom",
+      "new": {
+        "image_mode": "\"exact\"",
+        "fullscreen": "false",
+        "window_scale": "3",
+        "swap_ports": "false"
+      }
+    }
+  ],
+  "settings": [
+    {
+      "id": "image",
+      "label": "Picture",
+      "help": "Pixel-exact keeps every pixel the same size. Fill window uses all the space. 4:3 matches a CRT TV.",
+      "choices": [
+        {
+          "label": "Pixel-exact",
+          "set": {
+            "image_mode": "\"exact\""
+          }
+        },
+        {
+          "label": "Fill window",
+          "set": {
+            "image_mode": "\"fill\""
+          }
+        },
+        {
+          "label": "4:3",
+          "set": {
+            "image_mode": "\"4:3\""
+          }
+        }
+      ],
+      "defaults": {
+        "image_mode": "\"exact\""
+      }
+    },
+    {
+      "id": "fullscreen",
+      "label": "Fullscreen",
+      "help": "Big Picture mode starts in fullscreen unless you turn it off here.",
+      "choices": [
+        {
+          "label": "Off",
+          "set": {
+            "fullscreen": "false"
+          }
+        },
+        {
+          "label": "On",
+          "set": {
+            "fullscreen": "true"
+          }
+        }
+      ],
+      "defaults": {
+        "fullscreen": "false"
+      }
+    },
+    {
+      "id": "scale",
+      "label": "Window size",
+      "help": "How many times the console's 320x224 picture the window opens at.",
+      "when": {
+        "fullscreen": "false"
+      },
+      "choices": [
+        {
+          "label": "2x",
+          "set": {
+            "window_scale": "2"
+          }
+        },
+        {
+          "label": "3x",
+          "set": {
+            "window_scale": "3"
+          }
+        },
+        {
+          "label": "4x",
+          "set": {
+            "window_scale": "4"
+          }
+        },
+        {
+          "label": "5x",
+          "set": {
+            "window_scale": "5"
+          }
+        }
+      ],
+      "defaults": {
+        "window_scale": "3"
+      }
+    },
+    {
+      "id": "keyboard",
+      "label": "Keyboard layout",
+      "help": "Two players share the keyboard by default. The one-player layouts turn player 2's keys off. Any key can be set by hand in tinytoon.toml.",
+      "choices": [
+        {
+          "label": "Two players: WASD + J K L / arrows + numpad",
+          "set": {
+            "p1_up": "\"W\"",
+            "p1_down": "\"S\"",
+            "p1_left": "\"A\"",
+            "p1_right": "\"D\"",
+            "p1_a": "\"J\"",
+            "p1_b": "\"K\"",
+            "p1_c": "\"L\"",
+            "p1_start": "\"Return\"",
+            "p2_up": "\"Up\"",
+            "p2_down": "\"Down\"",
+            "p2_left": "\"Left\"",
+            "p2_right": "\"Right\"",
+            "p2_a": "\"Keypad 1, 1\"",
+            "p2_b": "\"Keypad 2, 2\"",
+            "p2_c": "\"Keypad 3, 3\"",
+            "p2_start": "\"Keypad 0, 0\""
+          }
+        },
+        {
+          "label": "One player: arrows + Z X C, Enter",
+          "set": {
+            "p1_up": "\"Up\"",
+            "p1_down": "\"Down\"",
+            "p1_left": "\"Left\"",
+            "p1_right": "\"Right\"",
+            "p1_a": "\"Z\"",
+            "p1_b": "\"X\"",
+            "p1_c": "\"C\"",
+            "p1_start": "\"Return\"",
+            "p2_up": "\"\"",
+            "p2_down": "\"\"",
+            "p2_left": "\"\"",
+            "p2_right": "\"\"",
+            "p2_a": "\"\"",
+            "p2_b": "\"\"",
+            "p2_c": "\"\"",
+            "p2_start": "\"\""
+          }
+        },
+        {
+          "label": "One player: arrows + A S D, Enter",
+          "set": {
+            "p1_up": "\"Up\"",
+            "p1_down": "\"Down\"",
+            "p1_left": "\"Left\"",
+            "p1_right": "\"Right\"",
+            "p1_a": "\"A\"",
+            "p1_b": "\"S\"",
+            "p1_c": "\"D\"",
+            "p1_start": "\"Return\"",
+            "p2_up": "\"\"",
+            "p2_down": "\"\"",
+            "p2_left": "\"\"",
+            "p2_right": "\"\"",
+            "p2_a": "\"\"",
+            "p2_b": "\"\"",
+            "p2_c": "\"\"",
+            "p2_start": "\"\""
+          }
+        }
+      ],
+      "defaults": {
+        "p1_up": "\"W\"",
+        "p1_down": "\"S\"",
+        "p1_left": "\"A\"",
+        "p1_right": "\"D\"",
+        "p1_a": "\"J\"",
+        "p1_b": "\"K\"",
+        "p1_c": "\"L\"",
+        "p1_start": "\"Return\"",
+        "p2_up": "\"Up\"",
+        "p2_down": "\"Down\"",
+        "p2_left": "\"Left\"",
+        "p2_right": "\"Right\"",
+        "p2_a": "\"Keypad 1, 1\"",
+        "p2_b": "\"Keypad 2, 2\"",
+        "p2_c": "\"Keypad 3, 3\"",
+        "p2_start": "\"Keypad 0, 0\""
+      }
+    },
+    {
+      "id": "gamepad",
+      "label": "Gamepad buttons",
+      "help": "Which buttons are the Mega Drive's A, B and C (Xbox names; on other pads, the same positions). Start is Start or Back.",
+      "choices": [
+        {
+          "label": "A B C on X A B",
+          "set": {
+            "pad_a": "\"x\"",
+            "pad_b": "\"a\"",
+            "pad_c": "\"b\"",
+            "pad_start": "\"start, back\""
+          }
+        },
+        {
+          "label": "A B C on A B X",
+          "set": {
+            "pad_a": "\"a\"",
+            "pad_b": "\"b\"",
+            "pad_c": "\"x\"",
+            "pad_start": "\"start, back\""
+          }
+        },
+        {
+          "label": "A B C on A B RB",
+          "set": {
+            "pad_a": "\"a\"",
+            "pad_b": "\"b\"",
+            "pad_c": "\"rightshoulder\"",
+            "pad_start": "\"start, back\""
+          }
+        },
+        {
+          "label": "A B C on Y B A",
+          "set": {
+            "pad_a": "\"y\"",
+            "pad_b": "\"b\"",
+            "pad_c": "\"a\"",
+            "pad_start": "\"start, back\""
+          }
+        }
+      ],
+      "defaults": {
+        "pad_a": "\"x\"",
+        "pad_b": "\"a\"",
+        "pad_c": "\"b\"",
+        "pad_start": "\"start, back\""
+      }
+    },
+    {
+      "id": "ports",
+      "label": "Swap players",
+      "help": "Player 1 and player 2 trade gamepads. Same as F4 in the game.",
+      "choices": [
+        {
+          "label": "Off",
+          "set": {
+            "swap_ports": "false"
+          }
+        },
+        {
+          "label": "On",
+          "set": {
+            "swap_ports": "true"
+          }
+        }
+      ],
+      "defaults": {
+        "swap_ports": "false"
+      }
+    }
+  ],
+  "looks": {
+    "graphics": "d3d11",
+    "lines": 224
+  },
+  "exit_codes": {
+    "2": "The ROM could not be read, or none was picked. Pick your copy again on the game's page.",
+    "3": "The game window could not be opened. Update your graphics driver and try again.",
+    "11": "This is the right game but not the European cartridge it is made from. The game is built from your ROM, so it needs exactly GM T-95146-00 (CRC32 1227b2b2).",
+    "20": "The game could not be built from your ROM. Set it up again from the game's page; tinytoon.log has the details.",
+    "21": "The built game could not be loaded. Set it up again from the game's page.",
+    "12": "The ROM file is empty. Pick your copy again on the game's page.",
+    "13": "The ROM is the wrong size: it must be exactly 1 MB. A smaller file is usually an interrupted download; a larger one, an archive not yet extracted.",
+    "14": "The ROM is an SMD dump. This port reads the raw .bin format: convert it with any Mega Drive ROM tool.",
+    "15": "That file is not a Mega Drive ROM.",
+    "16": "That is a Mega Drive ROM of another game. This program only runs Tiny Toon Adventures: ACME All-Stars.",
+    "17": "The ROM is damaged or modified: its internal checksum does not match."
+  },
+  "saves": []
+}

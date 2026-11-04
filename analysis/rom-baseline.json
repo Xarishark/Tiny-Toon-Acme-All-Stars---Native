@@ -1,0 +1,25 @@
+{
+  "size": 1048576,
+  "md5": "abddd42b2548e9b708991f689d726c9a",
+  "sha1": "2672018d9e005a9a3b5006fa8f61e08f2d1909aa",
+  "header": {
+    "console": "SEGA MEGA DRIVE",
+    "copyright": "(C)T-95 1994.SEP",
+    "title_domestic": "",
+    "title_overseas": "TINY TOON ADVENTURES ACME ALL STARS",
+    "serial": "GM T-95146-00",
+    "io_support": "J4",
+    "modem": "",
+    "notes": "",
+    "region": "E"
+  },
+  "checksum_stored": 58641,
+  "checksum_computed": 58641,
+  "rom_start": 0,
+  "rom_end": 1048575,
+  "ram_start": 16711680,
+  "ram_end": 16777215,
+  "has_sram": false,
+  "initial_sp": 4294967040,
+  "entry_point": 518
+}

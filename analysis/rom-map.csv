@@ -1,0 +1,1025 @@
+start,end,size,kind,notes
+$000000,$0000FF,256,vectors,Tabela de vetores do 68000
+$000100,$0001FF,256,header,Header do cartucho
+$000200,$000293,148,code,
+$000294,$0002FF,108,unknown,1 referencia(s) de codigo apontam para dentro
+$000300,$0003FF,256,code,
+$000400,$00041B,28,unknown,1 referencia(s) de codigo apontam para dentro
+$00041C,$0004B5,154,code,
+$0004B6,$0004F5,64,table,
+$0004F6,$000539,68,code,
+$00053A,$00053B,2,unknown,sem referencias diretas
+$00053C,$00054D,18,code,
+$00054E,$000585,56,unknown,sem referencias diretas
+$000586,$0005BD,56,code,
+$0005BE,$0005CD,16,unknown,sem referencias diretas
+$0005CE,$0005DD,16,code,
+$0005DE,$00065D,128,unknown,sem referencias diretas
+$00065E,$000B33,1238,code,
+$000B34,$000B45,18,table,
+$000B46,$000EDB,918,code,
+$000EDC,$000F1B,64,palette,
+$000F1C,$001315,1018,unknown,1 referencia(s) de codigo apontam para dentro
+$001316,$00131F,10,code,
+$001320,$001325,6,table,
+$001326,$001407,226,code,
+$001408,$001427,32,unknown,2 referencia(s) de codigo apontam para dentro
+$001428,$001549,290,code,
+$00154A,$00155D,20,table,
+$00155E,$001663,262,code,
+$001664,$0016A7,68,unknown,sem referencias diretas
+$0016A8,$00190F,616,code,
+$001910,$001921,18,unknown,1 referencia(s) de codigo apontam para dentro
+$001922,$0019BB,154,code,
+$0019BC,$0019C3,8,table,
+$0019C4,$001C07,580,code,
+$001C08,$001C09,2,unknown,sem referencias diretas
+$001C0A,$001E37,558,code,
+$001E38,$001E39,2,unknown,sem referencias diretas
+$001E3A,$002221,1000,code,
+$002222,$002241,32,unknown,1 referencia(s) de codigo apontam para dentro
+$002242,$00230D,204,code,
+$00230E,$003D33,6694,unknown,5 referencia(s) de codigo apontam para dentro
+$003D34,$003DB3,128,code,
+$003DB4,$003DBF,12,table,
+$003DC0,$003FDD,542,code,
+$003FDE,$003FF1,20,unknown,1 referencia(s) de codigo apontam para dentro
+$003FF2,$00414D,348,code,
+$00414E,$004153,6,unknown,1 referencia(s) de codigo apontam para dentro
+$004154,$0041B3,96,code,
+$0041B4,$004253,160,unknown,4 referencia(s) de codigo apontam para dentro
+$004254,$0042A3,80,gfx_lz,
+$0042A4,$0042D7,52,code,
+$0042D8,$0042E1,10,table,
+$0042E2,$004379,152,code,
+$00437A,$004389,16,gfx_lz,
+$00438A,$004423,154,code,
+$004424,$004437,20,gfx_lz,
+$004438,$004469,50,code,
+$00446A,$0044B9,80,gfx_lz,
+$0044BA,$004535,124,code,
+$004536,$004547,18,gfx_lz,
+$004548,$0045B9,114,code,
+$0045BA,$0046AF,246,gfx_lz,
+$0046B0,$0046B9,10,unknown,sem referencias diretas
+$0046BA,$00476B,178,code,
+$00476C,$00486B,256,unknown,2 referencia(s) de codigo apontam para dentro
+$00486C,$0048A9,62,code,
+$0048AA,$0048B5,12,unknown,sem referencias diretas
+$0048B6,$004991,220,code,
+$004992,$004B91,512,unknown,2 referencia(s) de codigo apontam para dentro
+$004B92,$004C2D,156,code,
+$004C2E,$004CAD,128,unknown,1 referencia(s) de codigo apontam para dentro
+$004CAE,$004CD9,44,code,
+$004CDA,$004D03,42,unknown,sem referencias diretas
+$004D04,$004D3F,60,code,
+$004D40,$004D57,24,unknown,3 referencia(s) de codigo apontam para dentro
+$004D58,$004DE7,144,code,
+$004DE8,$004DEF,8,table,
+$004DF0,$004E17,40,unknown,2 referencia(s) de codigo apontam para dentro
+$004E18,$004FB1,410,code,
+$004FB2,$004FD9,40,table,
+$004FDA,$005219,576,code,
+$00521A,$005235,28,unknown,1 referencia(s) de codigo apontam para dentro
+$005236,$0053FF,458,code,
+$005400,$005401,2,unknown,sem referencias diretas
+$005402,$005473,114,code,
+$005474,$005483,16,unknown,1 referencia(s) de codigo apontam para dentro
+$005484,$005529,166,code,
+$00552A,$005539,16,unknown,sem referencias diretas
+$00553A,$005737,510,code,
+$005738,$005747,16,unknown,1 referencia(s) de codigo apontam para dentro
+$005748,$00586F,296,code,
+$005870,$0058A1,50,table,
+$0058A2,$005A05,356,code,
+$005A06,$005A1D,24,unknown,1 referencia(s) de codigo apontam para dentro
+$005A1E,$005C51,564,code,
+$005C52,$005E91,576,unknown,4 referencia(s) de codigo apontam para dentro
+$005E92,$006481,1520,code,
+$006482,$006941,1216,unknown,1 referencia(s) de codigo apontam para dentro
+$006942,$006A7B,314,code,
+$006A7C,$006A81,6,unknown,1 referencia(s) de codigo apontam para dentro
+$006A82,$006B39,184,code,
+$006B3A,$006B69,48,unknown,3 referencia(s) de codigo apontam para dentro
+$006B6A,$006BA5,60,code,
+$006BA6,$006BAD,8,unknown,1 referencia(s) de codigo apontam para dentro
+$006BAE,$006E2B,638,code,
+$006E2C,$0073C5,1434,unknown,3 referencia(s) de codigo apontam para dentro
+$0073C6,$00740F,74,code,
+$007410,$007511,258,table,
+$007512,$007519,8,unknown,1 referencia(s) de codigo apontam para dentro
+$00751A,$00782B,786,code,
+$00782C,$00787B,80,unknown,3 referencia(s) de codigo apontam para dentro
+$00787C,$0078E9,110,code,
+$0078EA,$0078FF,22,table,
+$007900,$007A01,258,code,
+$007A02,$007A51,80,unknown,2 referencia(s) de codigo apontam para dentro
+$007A52,$007AC9,120,code,
+$007ACA,$007AD1,8,unknown,1 referencia(s) de codigo apontam para dentro
+$007AD2,$007B31,96,code,
+$007B32,$007B41,16,unknown,1 referencia(s) de codigo apontam para dentro
+$007B42,$007CC9,392,code,
+$007CCA,$007CD1,8,unknown,1 referencia(s) de codigo apontam para dentro
+$007CD2,$00811B,1098,code,
+$00811C,$008147,44,unknown,1 referencia(s) de codigo apontam para dentro
+$008148,$00835D,534,code,
+$00835E,$008363,6,table,
+$008364,$00858B,552,code,
+$00858C,$008599,14,table,
+$00859A,$008833,666,code,
+$008834,$00884B,24,unknown,1 referencia(s) de codigo apontam para dentro
+$00884C,$0088AD,98,code,
+$0088AE,$0088C5,24,table,
+$0088C6,$008975,176,code,
+$008976,$00897B,6,table,
+$00897C,$008C03,648,code,
+$008C04,$008C1B,24,table,
+$008C1C,$008D59,318,code,
+$008D5A,$008D5F,6,table,
+$008D60,$008EF3,404,code,
+$008EF4,$008F03,16,unknown,1 referencia(s) de codigo apontam para dentro
+$008F04,$0090CD,458,code,
+$0090CE,$0090D3,6,table,
+$0090D4,$0091CD,250,code,
+$0091CE,$0091E3,22,table,
+$0091E4,$00936D,394,code,
+$00936E,$009385,24,unknown,1 referencia(s) de codigo apontam para dentro
+$009386,$00959B,534,code,
+$00959C,$0095AB,16,unknown,1 referencia(s) de codigo apontam para dentro
+$0095AC,$009733,392,code,
+$009734,$009745,18,table,
+$009746,$009867,290,code,
+$009868,$00987F,24,unknown,1 referencia(s) de codigo apontam para dentro
+$009880,$0099DD,350,code,
+$0099DE,$0099E3,6,table,
+$0099E4,$009ACD,234,code,
+$009ACE,$009AD3,6,table,
+$009AD4,$009C75,418,code,
+$009C76,$009CB5,64,unknown,4 referencia(s) de codigo apontam para dentro
+$009CB6,$00A03D,904,code,
+$00A03E,$00A045,8,unknown,1 referencia(s) de codigo apontam para dentro
+$00A046,$00A39F,858,code,
+$00A3A0,$00A3BD,30,table,
+$00A3BE,$00A44F,146,code,
+$00A450,$00A46F,32,unknown,1 referencia(s) de codigo apontam para dentro
+$00A470,$00AB81,1810,code,
+$00AB82,$00AD89,520,unknown,2 referencia(s) de codigo apontam para dentro
+$00AD8A,$00AFFD,628,code,
+$00AFFE,$00B025,40,unknown,3 referencia(s) de codigo apontam para dentro
+$00B026,$00B067,66,code,
+$00B068,$00B077,16,unknown,1 referencia(s) de codigo apontam para dentro
+$00B078,$00B0C5,78,code,
+$00B0C6,$00B0E7,34,table,
+$00B0E8,$00B24D,358,code,
+$00B24E,$00B289,60,unknown,1 referencia(s) de codigo apontam para dentro
+$00B28A,$00B713,1162,code,
+$00B714,$00B723,16,unknown,1 referencia(s) de codigo apontam para dentro
+$00B724,$00BB07,996,code,
+$00BB08,$00BB1F,24,table,
+$00BB20,$00BB2D,14,code,
+$00BB2E,$00BB37,10,table,
+$00BB38,$00BDE3,684,code,
+$00BDE4,$00BDEB,8,table,
+$00BDEC,$00BFED,514,code,
+$00BFEE,$00BFF9,12,table,
+$00BFFA,$00C0ED,244,code,
+$00C0EE,$00C0F3,6,unknown,sem referencias diretas
+$00C0F4,$00C285,402,code,
+$00C286,$00C28F,10,table,
+$00C290,$00C38B,252,code,
+$00C38C,$00C38D,2,unknown,sem referencias diretas
+$00C38E,$00C577,490,code,
+$00C578,$00C57D,6,table,
+$00C57E,$00C72F,434,code,
+$00C730,$00C733,4,unknown,1 referencia(s) de codigo apontam para dentro
+$00C734,$00C759,38,code,
+$00C75A,$00C761,8,table,
+$00C762,$00C857,246,code,
+$00C858,$00C859,2,unknown,sem referencias diretas
+$00C85A,$00C9F5,412,code,
+$00C9F6,$00CA03,14,table,
+$00CA04,$00CA87,132,code,
+$00CA88,$00CA97,16,unknown,1 referencia(s) de codigo apontam para dentro
+$00CA98,$00CC9B,516,code,
+$00CC9C,$00CCAB,16,unknown,1 referencia(s) de codigo apontam para dentro
+$00CCAC,$00CE47,412,code,
+$00CE48,$00CE4F,8,table,
+$00CE50,$00CF6B,284,code,
+$00CF6C,$00CF8B,32,unknown,1 referencia(s) de codigo apontam para dentro
+$00CF8C,$00D057,204,code,
+$00D058,$00D059,2,unknown,sem referencias diretas
+$00D05A,$00D10B,178,code,
+$00D10C,$00D111,6,table,
+$00D112,$00D33B,554,code,
+$00D33C,$00D347,12,table,
+$00D348,$00D3B9,114,code,
+$00D3BA,$00D3C9,16,unknown,1 referencia(s) de codigo apontam para dentro
+$00D3CA,$00D5D7,526,code,
+$00D5D8,$00D5E7,16,unknown,1 referencia(s) de codigo apontam para dentro
+$00D5E8,$00D6B1,202,code,
+$00D6B2,$00D6B5,4,table,
+$00D6B6,$00D7D7,290,code,
+$00D7D8,$00D7E1,10,table,
+$00D7E2,$00DB89,936,code,
+$00DB8A,$00DC01,120,table,
+$00DC02,$00DE5D,604,code,
+$00DE5E,$00DE9D,64,unknown,1 referencia(s) de codigo apontam para dentro
+$00DE9E,$00DF0B,110,code,
+$00DF0C,$00DF1B,16,unknown,1 referencia(s) de codigo apontam para dentro
+$00DF1C,$00E2BB,928,code,
+$00E2BC,$00E301,70,unknown,sem referencias diretas
+$00E302,$00E83B,1338,code,
+$00E83C,$00E84B,16,unknown,1 referencia(s) de codigo apontam para dentro
+$00E84C,$00EB95,842,code,
+$00EB96,$00EBB5,32,unknown,3 referencia(s) de codigo apontam para dentro
+$00EBB6,$00EBB7,2,code,
+$00EBB8,$00EC1D,102,unknown,sem referencias diretas
+$00EC1E,$00F14F,1330,code,
+$00F150,$00F163,20,unknown,1 referencia(s) de codigo apontam para dentro
+$00F164,$00F365,514,code,
+$00F366,$00F385,32,unknown,1 referencia(s) de codigo apontam para dentro
+$00F386,$00F415,144,code,
+$00F416,$00F435,32,unknown,1 referencia(s) de codigo apontam para dentro
+$00F436,$00F569,308,code,
+$00F56A,$00F579,16,table,
+$00F57A,$00F6E1,360,code,
+$00F6E2,$00F6F1,16,table,
+$00F6F2,$00F769,120,code,
+$00F76A,$00F779,16,unknown,1 referencia(s) de codigo apontam para dentro
+$00F77A,$00F8C9,336,code,
+$00F8CA,$00F8D9,16,unknown,2 referencia(s) de codigo apontam para dentro
+$00F8DA,$00F917,62,code,
+$00F918,$00FCAF,920,unknown,sem referencias diretas
+$00FCB0,$00FCD5,38,code,
+$00FCD6,$00FCF5,32,unknown,1 referencia(s) de codigo apontam para dentro
+$00FCF6,$00FD95,160,code,
+$00FD96,$010525,1936,unknown,sem referencias diretas
+$010526,$010533,14,code,
+$010534,$01053B,8,table,
+$01053C,$0105FB,192,code,
+$0105FC,$0106EB,240,unknown,5 referencia(s) de codigo apontam para dentro
+$0106EC,$010745,90,code,
+$010746,$010785,64,unknown,1 referencia(s) de codigo apontam para dentro
+$010786,$0107B9,52,code,
+$0107BA,$0107C9,16,table,
+$0107CA,$0107EB,34,code,
+$0107EC,$0107EF,4,unknown,1 referencia(s) de codigo apontam para dentro
+$0107F0,$010817,40,code,
+$010818,$010823,12,unknown,1 referencia(s) de codigo apontam para dentro
+$010824,$010851,46,code,
+$010852,$010881,48,unknown,1 referencia(s) de codigo apontam para dentro
+$010882,$0108AB,42,code,
+$0108AC,$0108BB,16,unknown,1 referencia(s) de codigo apontam para dentro
+$0108BC,$010AC1,518,code,
+$010AC2,$010B13,82,unknown,sem referencias diretas
+$010B14,$010C9D,394,code,
+$010C9E,$010CC3,38,table,
+$010CC4,$010CD1,14,code,
+$010CD2,$010CDF,14,table,
+$010CE0,$010D1F,64,code,
+$010D20,$010D3B,28,unknown,2 referencia(s) de codigo apontam para dentro
+$010D3C,$010D5B,32,code,
+$010D5C,$010D69,14,unknown,1 referencia(s) de codigo apontam para dentro
+$010D6A,$010E2B,194,code,
+$010E2C,$010E33,8,table,
+$010E34,$010E8D,90,code,
+$010E8E,$010EBD,48,unknown,2 referencia(s) de codigo apontam para dentro
+$010EBE,$010EFD,64,code,
+$010EFE,$010F1D,32,unknown,1 referencia(s) de codigo apontam para dentro
+$010F1E,$010F6F,82,code,
+$010F70,$010F7F,16,unknown,1 referencia(s) de codigo apontam para dentro
+$010F80,$010F8D,14,code,
+$010F8E,$010F97,10,table,
+$010F98,$010FF5,94,code,
+$010FF6,$011085,144,unknown,4 referencia(s) de codigo apontam para dentro
+$011086,$0110FD,120,code,
+$0110FE,$011105,8,table,
+$011106,$01111F,26,code,
+$011120,$011129,10,table,
+$01112A,$01118D,100,code,
+$01118E,$0113F5,616,unknown,2 referencia(s) de codigo apontam para dentro
+$0113F6,$011415,32,palette,
+$011416,$01178D,888,unknown,1 referencia(s) de codigo apontam para dentro
+$01178E,$0117D7,74,code,
+$0117D8,$0117E1,10,unknown,1 referencia(s) de codigo apontam para dentro
+$0117E2,$0118EF,270,code,
+$0118F0,$0118F9,10,table,
+$0118FA,$0119AD,180,code,
+$0119AE,$0119BF,18,unknown,1 referencia(s) de codigo apontam para dentro
+$0119C0,$011A2B,108,code,
+$011A2C,$011A35,10,unknown,1 referencia(s) de codigo apontam para dentro
+$011A36,$011A95,96,code,
+$011A96,$011AE9,84,unknown,2 referencia(s) de codigo apontam para dentro
+$011AEA,$011B01,24,code,
+$011B02,$011B07,6,table,
+$011B08,$011B77,112,code,
+$011B78,$011BDF,104,unknown,2 referencia(s) de codigo apontam para dentro
+$011BE0,$011CD1,242,code,
+$011CD2,$011CFB,42,unknown,3 referencia(s) de codigo apontam para dentro
+$011CFC,$011D81,134,code,
+$011D82,$011D85,4,unknown,1 referencia(s) de codigo apontam para dentro
+$011D86,$011E7B,246,code,
+$011E7C,$01237B,1280,unknown,1 referencia(s) de codigo apontam para dentro
+$01237C,$012389,14,code,
+$01238A,$012399,16,table,
+$01239A,$012431,152,code,
+$012432,$01243F,14,unknown,1 referencia(s) de codigo apontam para dentro
+$012440,$012569,298,code,
+$01256A,$012577,14,unknown,1 referencia(s) de codigo apontam para dentro
+$012578,$0125E1,106,code,
+$0125E2,$0125EB,10,unknown,1 referencia(s) de codigo apontam para dentro
+$0125EC,$012623,56,code,
+$012624,$012629,6,table,
+$01262A,$01269B,114,code,
+$01269C,$0126DF,68,unknown,3 referencia(s) de codigo apontam para dentro
+$0126E0,$01282D,334,code,
+$01282E,$012831,4,unknown,1 referencia(s) de codigo apontam para dentro
+$012832,$012857,38,code,
+$012858,$012869,18,unknown,1 referencia(s) de codigo apontam para dentro
+$01286A,$012917,174,code,
+$012918,$012931,26,unknown,1 referencia(s) de codigo apontam para dentro
+$012932,$01297D,76,code,
+$01297E,$012989,12,table,
+$01298A,$012A0B,130,code,
+$012A0C,$012A1D,18,unknown,1 referencia(s) de codigo apontam para dentro
+$012A1E,$012B29,268,code,
+$012B2A,$012B31,8,table,
+$012B32,$012BD1,160,code,
+$012BD2,$012BF1,32,unknown,2 referencia(s) de codigo apontam para dentro
+$012BF2,$012C13,34,code,
+$012C14,$012C1D,10,unknown,1 referencia(s) de codigo apontam para dentro
+$012C1E,$012D6B,334,code,
+$012D6C,$012D8B,32,unknown,2 referencia(s) de codigo apontam para dentro
+$012D8C,$012E87,252,code,
+$012E88,$012E99,18,unknown,1 referencia(s) de codigo apontam para dentro
+$012E9A,$012EAB,18,code,
+$012EAC,$012EB9,14,unknown,1 referencia(s) de codigo apontam para dentro
+$012EBA,$012EC7,14,code,
+$012EC8,$012ECF,8,table,
+$012ED0,$012F55,134,code,
+$012F56,$012F71,28,unknown,2 referencia(s) de codigo apontam para dentro
+$012F72,$012FC5,84,code,
+$012FC6,$012FF1,44,unknown,1 referencia(s) de codigo apontam para dentro
+$012FF2,$01308F,158,code,
+$013090,$013093,4,unknown,1 referencia(s) de codigo apontam para dentro
+$013094,$0131A9,278,code,
+$0131AA,$0131E9,64,unknown,2 referencia(s) de codigo apontam para dentro
+$0131EA,$0131FF,22,code,
+$013200,$013205,6,table,
+$013206,$0132A7,162,code,
+$0132A8,$0132AF,8,unknown,1 referencia(s) de codigo apontam para dentro
+$0132B0,$0133A5,246,code,
+$0133A6,$0133C9,36,table,
+$0133CA,$0135F3,554,code,
+$0135F4,$0136B3,192,unknown,3 referencia(s) de codigo apontam para dentro
+$0136B4,$013731,126,code,
+$013732,$013759,40,unknown,2 referencia(s) de codigo apontam para dentro
+$01375A,$013951,504,code,
+$013952,$013A6F,286,unknown,5 referencia(s) de codigo apontam para dentro
+$013A70,$013A83,20,code,
+$013A84,$013A9F,28,table,
+$013AA0,$013AD3,52,code,
+$013AD4,$013AE7,20,table,
+$013AE8,$013BD9,242,code,
+$013BDA,$013C0F,54,unknown,2 referencia(s) de codigo apontam para dentro
+$013C10,$013CDB,204,code,
+$013CDC,$013D01,38,unknown,1 referencia(s) de codigo apontam para dentro
+$013D02,$013D61,96,code,
+$013D62,$013D7D,28,unknown,1 referencia(s) de codigo apontam para dentro
+$013D7E,$01411D,928,code,
+$01411E,$01414D,48,unknown,2 referencia(s) de codigo apontam para dentro
+$01414E,$01416D,32,code,
+$01416E,$014189,28,unknown,1 referencia(s) de codigo apontam para dentro
+$01418A,$0141A9,32,code,
+$0141AA,$0141C5,28,unknown,1 referencia(s) de codigo apontam para dentro
+$0141C6,$014251,140,code,
+$014252,$01426D,28,unknown,1 referencia(s) de codigo apontam para dentro
+$01426E,$014287,26,code,
+$014288,$014299,18,table,
+$01429A,$0142DD,68,code,
+$0142DE,$0142FD,32,unknown,1 referencia(s) de codigo apontam para dentro
+$0142FE,$014347,74,code,
+$014348,$014369,34,unknown,1 referencia(s) de codigo apontam para dentro
+$01436A,$0144D1,360,code,
+$0144D2,$014509,56,unknown,2 referencia(s) de codigo apontam para dentro
+$01450A,$0145F1,232,code,
+$0145F2,$014613,34,unknown,1 referencia(s) de codigo apontam para dentro
+$014614,$0146D3,192,code,
+$0146D4,$0146E5,18,table,
+$0146E6,$0147AD,200,code,
+$0147AE,$0147C5,24,unknown,sem referencias diretas
+$0147C6,$0147C7,2,code,
+$0147C8,$0148B7,240,unknown,3 referencia(s) de codigo apontam para dentro
+$0148B8,$014943,140,code,
+$014944,$01494B,8,unknown,1 referencia(s) de codigo apontam para dentro
+$01494C,$014A3F,244,code,
+$014A40,$014A5F,32,unknown,1 referencia(s) de codigo apontam para dentro
+$014A60,$014A6D,14,code,
+$014A6E,$014A77,10,table,
+$014A78,$014BBD,326,code,
+$014BBE,$014BCD,16,table,
+$014BCE,$014D79,428,code,
+$014D7A,$014DA9,48,unknown,2 referencia(s) de codigo apontam para dentro
+$014DAA,$014E9B,242,code,
+$014E9C,$014EA5,10,table,
+$014EA6,$014F07,98,code,
+$014F08,$015043,316,unknown,2 referencia(s) de codigo apontam para dentro
+$015044,$01517F,316,code,
+$015180,$015187,8,unknown,2 referencia(s) de codigo apontam para dentro
+$015188,$0151C1,58,code,
+$0151C2,$0151CD,12,table,
+$0151CE,$015243,118,code,
+$015244,$015293,80,unknown,3 referencia(s) de codigo apontam para dentro
+$015294,$0153C5,306,code,
+$0153C6,$0153E5,32,unknown,1 referencia(s) de codigo apontam para dentro
+$0153E6,$0154D5,240,code,
+$0154D6,$015631,348,unknown,5 referencia(s) de codigo apontam para dentro
+$015632,$015707,214,code,
+$015708,$015767,96,unknown,2 referencia(s) de codigo apontam para dentro
+$015768,$01577F,24,code,
+$015780,$01578B,12,table,
+$01578C,$015F35,1962,code,
+$015F36,$015F49,20,table,
+$015F4A,$015F61,24,code,
+$015F62,$015F79,24,unknown,1 referencia(s) de codigo apontam para dentro
+$015F7A,$015FAF,54,code,
+$015FB0,$015FC3,20,unknown,1 referencia(s) de codigo apontam para dentro
+$015FC4,$015FDF,28,code,
+$015FE0,$015FF3,20,unknown,1 referencia(s) de codigo apontam para dentro
+$015FF4,$01600D,26,code,
+$01600E,$01601D,16,table,
+$01601E,$016147,298,code,
+$016148,$01614F,8,table,
+$016150,$016275,294,code,
+$016276,$016285,16,unknown,1 referencia(s) de codigo apontam para dentro
+$016286,$01647F,506,code,
+$016480,$0164DF,96,unknown,1 referencia(s) de codigo apontam para dentro
+$0164E0,$01653F,96,code,
+$016540,$01654B,12,unknown,1 referencia(s) de codigo apontam para dentro
+$01654C,$0165CB,128,code,
+$0165CC,$0165DF,20,table,
+$0165E0,$0166DF,256,code,
+$0166E0,$01673F,96,unknown,1 referencia(s) de codigo apontam para dentro
+$016740,$0167BB,124,code,
+$0167BC,$0167CB,16,table,
+$0167CC,$016929,350,code,
+$01692A,$016935,12,unknown,1 referencia(s) de codigo apontam para dentro
+$016936,$016A07,210,code,
+$016A08,$016A15,14,unknown,sem referencias diretas
+$016A16,$016A7B,102,code,
+$016A7C,$016A93,24,unknown,1 referencia(s) de codigo apontam para dentro
+$016A94,$016AC3,48,code,
+$016AC4,$016ACF,12,unknown,1 referencia(s) de codigo apontam para dentro
+$016AD0,$016BE9,282,code,
+$016BEA,$016C01,24,unknown,1 referencia(s) de codigo apontam para dentro
+$016C02,$016C1B,26,code,
+$016C1C,$016C27,12,unknown,1 referencia(s) de codigo apontam para dentro
+$016C28,$016CA7,128,code,
+$016CA8,$016CAD,6,unknown,sem referencias diretas
+$016CAE,$016CB9,12,code,
+$016CBA,$016CD1,24,unknown,1 referencia(s) de codigo apontam para dentro
+$016CD2,$016D09,56,code,
+$016D0A,$016D15,12,unknown,1 referencia(s) de codigo apontam para dentro
+$016D16,$016D93,126,code,
+$016D94,$016DC3,48,table,
+$016DC4,$016F1D,346,code,
+$016F1E,$016F4D,48,table,
+$016F4E,$0170DD,400,code,
+$0170DE,$0170E5,8,unknown,1 referencia(s) de codigo apontam para dentro
+$0170E6,$017137,82,code,
+$017138,$017143,12,unknown,2 referencia(s) de codigo apontam para dentro
+$017144,$0174D7,916,code,
+$0174D8,$0174E9,18,table,
+$0174EA,$01763D,340,code,
+$01763E,$01765D,32,unknown,2 referencia(s) de codigo apontam para dentro
+$01765E,$017DFD,1952,code,
+$017DFE,$01AC67,11882,unknown,59 referencia(s) de codigo apontam para dentro
+$01AC68,$01ACCB,100,code,
+$01ACCC,$01ACDD,18,unknown,1 referencia(s) de codigo apontam para dentro
+$01ACDE,$01ADFF,290,code,
+$01AE00,$01AE27,40,unknown,3 referencia(s) de codigo apontam para dentro
+$01AE28,$01AE77,80,code,
+$01AE78,$01C499,5666,unknown,5 referencia(s) de codigo apontam para dentro
+$01C49A,$01C4C3,42,code,
+$01C4C4,$01C4D3,16,table,
+$01C4D4,$01C71D,586,code,
+$01C71E,$01C725,8,table,
+$01C726,$01C7FB,214,code,
+$01C7FC,$01C80B,16,table,
+$01C80C,$01CB73,872,code,
+$01CB74,$01CB7F,12,unknown,1 referencia(s) de codigo apontam para dentro
+$01CB80,$01CBEB,108,code,
+$01CBEC,$01CC03,24,unknown,1 referencia(s) de codigo apontam para dentro
+$01CC04,$01CC4B,72,code,
+$01CC4C,$01CC53,8,unknown,1 referencia(s) de codigo apontam para dentro
+$01CC54,$01CC77,36,code,
+$01CC78,$01CC87,16,unknown,1 referencia(s) de codigo apontam para dentro
+$01CC88,$01CCA5,30,code,
+$01CCA6,$01CCC5,32,unknown,1 referencia(s) de codigo apontam para dentro
+$01CCC6,$01CD17,82,code,
+$01CD18,$01CD23,12,unknown,1 referencia(s) de codigo apontam para dentro
+$01CD24,$01CD8F,108,code,
+$01CD90,$01CDAF,32,unknown,2 referencia(s) de codigo apontam para dentro
+$01CDB0,$01CDE7,56,code,
+$01CDE8,$01CE07,32,unknown,1 referencia(s) de codigo apontam para dentro
+$01CE08,$01CE57,80,code,
+$01CE58,$01CE97,64,unknown,2 referencia(s) de codigo apontam para dentro
+$01CE98,$01CF1B,132,code,
+$01CF1C,$01CF57,60,unknown,6 referencia(s) de codigo apontam para dentro
+$01CF58,$01CF5D,6,code,
+$01CF5E,$01CF67,10,table,
+$01CF68,$01CF71,10,unknown,1 referencia(s) de codigo apontam para dentro
+$01CF72,$01CFFB,138,code,
+$01CFFC,$01D043,72,unknown,1 referencia(s) de codigo apontam para dentro
+$01D044,$01D221,478,code,
+$01D222,$01D225,4,unknown,1 referencia(s) de codigo apontam para dentro
+$01D226,$01D2C5,160,code,
+$01D2C6,$01D2EF,42,table,
+$01D2F0,$01D9C5,1750,code,
+$01D9C6,$01D9CD,8,unknown,1 referencia(s) de codigo apontam para dentro
+$01D9CE,$01DA6F,162,code,
+$01DA70,$01DA81,18,unknown,1 referencia(s) de codigo apontam para dentro
+$01DA82,$01DD5B,730,code,
+$01DD5C,$01DD6B,16,unknown,2 referencia(s) de codigo apontam para dentro
+$01DD6C,$01DDB9,78,code,
+$01DDBA,$01DEB9,256,unknown,6 referencia(s) de codigo apontam para dentro
+$01DEBA,$01DEC3,10,code,
+$01DEC4,$01DECD,10,table,
+$01DECE,$01DF8B,190,code,
+$01DF8C,$01DF95,10,table,
+$01DF96,$01E131,412,code,
+$01E132,$01E3FD,716,unknown,3 referencia(s) de codigo apontam para dentro
+$01E3FE,$01E45B,94,code,
+$01E45C,$01E461,6,table,
+$01E462,$01E587,294,code,
+$01E588,$01E5A7,32,unknown,1 referencia(s) de codigo apontam para dentro
+$01E5A8,$01E66B,196,code,
+$01E66C,$01E67F,20,table,
+$01E680,$01E6A9,42,code,
+$01E6AA,$01E6BD,20,table,
+$01E6BE,$01E6C9,12,code,
+$01E6CA,$01E6CF,6,table,
+$01E6D0,$01E939,618,code,
+$01E93A,$01E96F,54,unknown,6 referencia(s) de codigo apontam para dentro
+$01E970,$01E9A5,54,code,
+$01E9A6,$01E9B9,20,unknown,2 referencia(s) de codigo apontam para dentro
+$01E9BA,$01E9CD,20,code,
+$01E9CE,$01E9D9,12,table,
+$01E9DA,$01EADF,262,code,
+$01EAE0,$01F273,1940,codigo_orfao,
+$01F274,$01F383,272,code,
+$01F384,$01F3A3,32,unknown,2 referencia(s) de codigo apontam para dentro
+$01F3A4,$01F3B1,14,code,
+$01F3B2,$01F3B7,6,table,
+$01F3B8,$01F407,80,code,
+$01F408,$01F40F,8,unknown,1 referencia(s) de codigo apontam para dentro
+$01F410,$01F4AD,158,code,
+$01F4AE,$01F4BF,18,unknown,1 referencia(s) de codigo apontam para dentro
+$01F4C0,$01F56F,176,code,
+$01F570,$01F57F,16,unknown,2 referencia(s) de codigo apontam para dentro
+$01F580,$01F5CF,80,code,
+$01F5D0,$01F5E9,26,unknown,2 referencia(s) de codigo apontam para dentro
+$01F5EA,$01F785,412,code,
+$01F786,$01F7A9,36,unknown,1 referencia(s) de codigo apontam para dentro
+$01F7AA,$01F7E3,58,code,
+$01F7E4,$01F7EB,8,table,
+$01F7EC,$01F905,282,code,
+$01F906,$01F929,36,unknown,1 referencia(s) de codigo apontam para dentro
+$01F92A,$01FA89,352,code,
+$01FA8A,$01FA99,16,table,
+$01FA9A,$01FB7D,228,code,
+$01FB7E,$01FB83,6,table,
+$01FB84,$01FC23,160,code,
+$01FC24,$01FC33,16,unknown,1 referencia(s) de codigo apontam para dentro
+$01FC34,$01FCD1,158,code,
+$01FCD2,$01FCDF,14,table,
+$01FCE0,$01FD63,132,code,
+$01FD64,$01FDD5,114,unknown,2 referencia(s) de codigo apontam para dentro
+$01FDD6,$01FE5F,138,code,
+$01FE60,$01FE8F,48,unknown,3 referencia(s) de codigo apontam para dentro
+$01FE90,$01FEEF,96,code,
+$01FEF0,$01FF0F,32,unknown,2 referencia(s) de codigo apontam para dentro
+$01FF10,$01FF67,88,code,
+$01FF68,$01FF71,10,table,
+$01FF72,$02000D,156,code,
+$02000E,$020011,4,unknown,1 referencia(s) de codigo apontam para dentro
+$020012,$020125,276,code,
+$020126,$020283,350,unknown,3 referencia(s) de codigo apontam para dentro
+$020284,$0202E7,100,code,
+$0202E8,$02031F,56,unknown,3 referencia(s) de codigo apontam para dentro
+$020320,$020381,98,code,
+$020382,$02048B,266,unknown,sem referencias diretas
+$02048C,$0204D5,74,code,
+$0204D6,$0204DB,6,table,
+$0204DC,$0204F9,30,code,
+$0204FA,$020511,24,table,
+$020512,$020731,544,code,
+$020732,$020739,8,unknown,1 referencia(s) de codigo apontam para dentro
+$02073A,$0209B7,638,code,
+$0209B8,$0209C7,16,unknown,1 referencia(s) de codigo apontam para dentro
+$0209C8,$020C95,718,code,
+$020C96,$020CA1,12,table,
+$020CA2,$020CE9,72,code,
+$020CEA,$020D11,40,unknown,1 referencia(s) de codigo apontam para dentro
+$020D12,$020D41,48,code,
+$020D42,$020D53,18,unknown,1 referencia(s) de codigo apontam para dentro
+$020D54,$020D91,62,code,
+$020D92,$020D97,6,unknown,1 referencia(s) de codigo apontam para dentro
+$020D98,$020E11,122,code,
+$020E12,$020E21,16,unknown,2 referencia(s) de codigo apontam para dentro
+$020E22,$020E2F,14,code,
+$020E30,$020E4F,32,unknown,2 referencia(s) de codigo apontam para dentro
+$020E50,$020E5D,14,code,
+$020E5E,$020E6D,16,unknown,1 referencia(s) de codigo apontam para dentro
+$020E6E,$020FAF,322,code,
+$020FB0,$020FD7,40,unknown,3 referencia(s) de codigo apontam para dentro
+$020FD8,$02102B,84,code,
+$02102C,$021035,10,unknown,1 referencia(s) de codigo apontam para dentro
+$021036,$0210EB,182,code,
+$0210EC,$0210F7,12,unknown,1 referencia(s) de codigo apontam para dentro
+$0210F8,$021127,48,code,
+$021128,$021133,12,unknown,1 referencia(s) de codigo apontam para dentro
+$021134,$0212A1,366,code,
+$0212A2,$0212A9,8,table,
+$0212AA,$02133D,148,code,
+$02133E,$021343,6,table,
+$021344,$021389,70,code,
+$02138A,$0213A1,24,unknown,2 referencia(s) de codigo apontam para dentro
+$0213A2,$0213D9,56,code,
+$0213DA,$0213E9,16,unknown,1 referencia(s) de codigo apontam para dentro
+$0213EA,$0213F7,14,code,
+$0213F8,$021403,12,table,
+$021404,$02157B,376,code,
+$02157C,$0215BB,64,unknown,5 referencia(s) de codigo apontam para dentro
+$0215BC,$0215E7,44,code,
+$0215E8,$0215FF,24,unknown,2 referencia(s) de codigo apontam para dentro
+$021600,$021689,138,code,
+$02168A,$0217B7,302,unknown,1 referencia(s) de codigo apontam para dentro
+$0217B8,$02180F,88,code,
+$021810,$021863,84,table,
+$021864,$0218C7,100,code,
+$0218C8,$02192D,102,unknown,sem referencias diretas
+$02192E,$0219AB,126,code,
+$0219AC,$0219C1,22,unknown,3 referencia(s) de codigo apontam para dentro
+$0219C2,$0219EB,42,code,
+$0219EC,$021A83,152,unknown,sem referencias diretas
+$021A84,$021A91,14,code,
+$021A92,$021A97,6,table,
+$021A98,$021B13,124,code,
+$021B14,$021BD1,190,unknown,2 referencia(s) de codigo apontam para dentro
+$021BD2,$021C7D,172,code,
+$021C7E,$021C87,10,table,
+$021C88,$021D49,194,code,
+$021D4A,$021D5D,20,unknown,1 referencia(s) de codigo apontam para dentro
+$021D5E,$021DE5,136,code,
+$021DE6,$021E71,140,unknown,2 referencia(s) de codigo apontam para dentro
+$021E72,$021F09,152,code,
+$021F0A,$021F39,48,unknown,2 referencia(s) de codigo apontam para dentro
+$021F3A,$02211B,482,code,
+$02211C,$02218B,112,unknown,2 referencia(s) de codigo apontam para dentro
+$02218C,$02221D,146,code,
+$02221E,$02228D,112,unknown,2 referencia(s) de codigo apontam para dentro
+$02228E,$0223A1,276,code,
+$0223A2,$0223C3,34,unknown,1 referencia(s) de codigo apontam para dentro
+$0223C4,$0223D1,14,code,
+$0223D2,$0223D5,4,table,
+$0223D6,$02240B,54,code,
+$02240C,$022423,24,unknown,1 referencia(s) de codigo apontam para dentro
+$022424,$022465,66,code,
+$022466,$02246D,8,table,
+$02246E,$02249D,48,code,
+$02249E,$0224AD,16,unknown,1 referencia(s) de codigo apontam para dentro
+$0224AE,$022533,134,code,
+$022534,$02253D,10,unknown,1 referencia(s) de codigo apontam para dentro
+$02253E,$022621,228,code,
+$022622,$022625,4,table,
+$022626,$0226C3,158,code,
+$0226C4,$0227F3,304,unknown,2 referencia(s) de codigo apontam para dentro
+$0227F4,$022919,294,code,
+$02291A,$022933,26,table,
+$022934,$022969,54,code,
+$02296A,$022971,8,unknown,1 referencia(s) de codigo apontam para dentro
+$022972,$022983,18,code,
+$022984,$022997,20,table,
+$022998,$022ADD,326,code,
+$022ADE,$022AE5,8,unknown,1 referencia(s) de codigo apontam para dentro
+$022AE6,$022B19,52,code,
+$022B1A,$022B79,96,unknown,4 referencia(s) de codigo apontam para dentro
+$022B7A,$0230B3,1338,code,
+$0230B4,$0230C3,16,table,
+$0230C4,$023189,198,code,
+$02318A,$0231A9,32,unknown,1 referencia(s) de codigo apontam para dentro
+$0231AA,$023455,684,code,
+$023456,$02347D,40,table,
+$02347E,$023497,26,code,
+$023498,$0234D7,64,unknown,1 referencia(s) de codigo apontam para dentro
+$0234D8,$0234E5,14,code,
+$0234E6,$023525,64,unknown,1 referencia(s) de codigo apontam para dentro
+$023526,$023535,16,code,
+$023536,$023575,64,unknown,1 referencia(s) de codigo apontam para dentro
+$023576,$023585,16,code,
+$023586,$0235C5,64,unknown,1 referencia(s) de codigo apontam para dentro
+$0235C6,$0235D5,16,code,
+$0235D6,$023615,64,unknown,1 referencia(s) de codigo apontam para dentro
+$023616,$023625,16,code,
+$023626,$023665,64,unknown,1 referencia(s) de codigo apontam para dentro
+$023666,$023671,12,code,
+$023672,$0236B1,64,unknown,1 referencia(s) de codigo apontam para dentro
+$0236B2,$0236DD,44,code,
+$0236DE,$0236E5,8,unknown,1 referencia(s) de codigo apontam para dentro
+$0236E6,$023701,28,code,
+$023702,$023721,32,table,
+$023722,$023869,328,code,
+$02386A,$0238B9,80,unknown,3 referencia(s) de codigo apontam para dentro
+$0238BA,$023943,138,code,
+$023944,$02396B,40,table,
+$02396C,$023ACF,356,code,
+$023AD0,$023DBF,752,unknown,10 referencia(s) de codigo apontam para dentro
+$023DC0,$023E17,88,code,
+$023E18,$023E57,64,unknown,4 referencia(s) de codigo apontam para dentro
+$023E58,$023EA7,80,code,
+$023EA8,$023ECF,40,unknown,sem referencias diretas
+$023ED0,$023F29,90,code,
+$023F2A,$024169,576,unknown,4 referencia(s) de codigo apontam para dentro
+$02416A,$0246FD,1428,code,
+$0246FE,$024741,68,unknown,1 referencia(s) de codigo apontam para dentro
+$024742,$024949,520,code,
+$02494A,$024969,32,unknown,3 referencia(s) de codigo apontam para dentro
+$02496A,$024985,28,code,
+$024986,$024999,20,unknown,1 referencia(s) de codigo apontam para dentro
+$02499A,$0249D3,58,code,
+$0249D4,$0249F3,32,table,
+$0249F4,$024B3F,332,code,
+$024B40,$024B4B,12,table,
+$024B4C,$024BE9,158,code,
+$024BEA,$024D63,378,unknown,1 referencia(s) de codigo apontam para dentro
+$024D64,$024D99,54,code,
+$024D9A,$024DA3,10,table,
+$024DA4,$024EF7,340,code,
+$024EF8,$024F4B,84,unknown,1 referencia(s) de codigo apontam para dentro
+$024F4C,$025165,538,code,
+$025166,$0254E5,896,unknown,1 referencia(s) de codigo apontam para dentro
+$0254E6,$0254FB,22,code,
+$0254FC,$0256F3,504,unknown,2 referencia(s) de codigo apontam para dentro
+$0256F4,$025755,98,code,
+$025756,$025763,14,table,
+$025764,$02588B,296,code,
+$02588C,$0258B9,46,unknown,2 referencia(s) de codigo apontam para dentro
+$0258BA,$0258C3,10,code,
+$0258C4,$0258CD,10,table,
+$0258CE,$025953,134,code,
+$025954,$02597B,40,unknown,1 referencia(s) de codigo apontam para dentro
+$02597C,$025999,30,code,
+$02599A,$0259A5,12,table,
+$0259A6,$025A29,132,code,
+$025A2A,$025A39,16,unknown,2 referencia(s) de codigo apontam para dentro
+$025A3A,$025C71,568,code,
+$025C72,$025C79,8,table,
+$025C7A,$025D73,250,code,
+$025D74,$025D7D,10,table,
+$025D7E,$025F43,454,code,
+$025F44,$025F5D,26,unknown,1 referencia(s) de codigo apontam para dentro
+$025F5E,$025F7F,34,code,
+$025F80,$025F9B,28,table,
+$025F9C,$026021,134,code,
+$026022,$02602F,14,unknown,1 referencia(s) de codigo apontam para dentro
+$026030,$02607B,76,code,
+$02607C,$026085,10,unknown,1 referencia(s) de codigo apontam para dentro
+$026086,$0260B7,50,code,
+$0260B8,$0260DB,36,unknown,2 referencia(s) de codigo apontam para dentro
+$0260DC,$026519,1086,code,
+$02651A,$02653B,34,unknown,1 referencia(s) de codigo apontam para dentro
+$02653C,$02663F,260,code,
+$026640,$026647,8,table,
+$026648,$026829,482,code,
+$02682A,$02690B,226,unknown,2 referencia(s) de codigo apontam para dentro
+$02690C,$026935,42,code,
+$026936,$02693B,6,table,
+$02693C,$0269E9,174,code,
+$0269EA,$026A61,120,unknown,1 referencia(s) de codigo apontam para dentro
+$026A62,$026AFB,154,code,
+$026AFC,$026B05,10,table,
+$026B06,$026C2D,296,code,
+$026C2E,$026C79,76,unknown,2 referencia(s) de codigo apontam para dentro
+$026C7A,$026D57,222,code,
+$026D58,$026D7F,40,unknown,1 referencia(s) de codigo apontam para dentro
+$026D80,$026ECB,332,code,
+$026ECC,$026F07,60,unknown,2 referencia(s) de codigo apontam para dentro
+$026F08,$026FB1,170,code,
+$026FB2,$0270F1,320,unknown,3 referencia(s) de codigo apontam para dentro
+$0270F2,$0271B5,196,code,
+$0271B6,$0271C3,14,table,
+$0271C4,$0271CB,8,unknown,1 referencia(s) de codigo apontam para dentro
+$0271CC,$0273C9,510,code,
+$0273CA,$0273D9,16,unknown,1 referencia(s) de codigo apontam para dentro
+$0273DA,$0273E7,14,code,
+$0273E8,$0273ED,6,table,
+$0273EE,$0274B1,196,code,
+$0274B2,$0274D9,40,unknown,2 referencia(s) de codigo apontam para dentro
+$0274DA,$02755B,130,code,
+$02755C,$02756B,16,unknown,1 referencia(s) de codigo apontam para dentro
+$02756C,$0275A5,58,code,
+$0275A6,$02763D,152,unknown,1 referencia(s) de codigo apontam para dentro
+$02763E,$0276D1,148,code,
+$0276D2,$0276D7,6,table,
+$0276D8,$02781F,328,code,
+$027820,$02796F,336,unknown,1 referencia(s) de codigo apontam para dentro
+$027970,$0279A7,56,code,
+$0279A8,$0279B5,14,table,
+$0279B6,$027A3D,136,code,
+$027A3E,$027A49,12,unknown,1 referencia(s) de codigo apontam para dentro
+$027A4A,$027A8B,66,code,
+$027A8C,$027A9B,16,unknown,1 referencia(s) de codigo apontam para dentro
+$027A9C,$027B6D,210,code,
+$027B6E,$027B79,12,unknown,2 referencia(s) de codigo apontam para dentro
+$027B7A,$027BCD,84,code,
+$027BCE,$027BDD,16,unknown,1 referencia(s) de codigo apontam para dentro
+$027BDE,$027BF5,24,code,
+$027BF6,$027C1B,38,unknown,1 referencia(s) de codigo apontam para dentro
+$027C1C,$027C29,14,code,
+$027C2A,$027C2F,6,table,
+$027C30,$027DBD,398,code,
+$027DBE,$027E1B,94,unknown,1 referencia(s) de codigo apontam para dentro
+$027E1C,$027E49,46,code,
+$027E4A,$027ECD,132,unknown,1 referencia(s) de codigo apontam para dentro
+$027ECE,$027F27,90,code,
+$027F28,$027F35,14,table,
+$027F36,$028137,514,code,
+$028138,$028143,12,unknown,1 referencia(s) de codigo apontam para dentro
+$028144,$0281D9,150,code,
+$0281DA,$028B35,2396,unknown,1 referencia(s) de codigo apontam para dentro
+$028B36,$028B3F,10,code,
+$028B40,$028B45,6,table,
+$028B46,$028DE1,668,code,
+$028DE2,$028DED,12,unknown,1 referencia(s) de codigo apontam para dentro
+$028DEE,$028F07,282,code,
+$028F08,$029149,578,unknown,13 referencia(s) de codigo apontam para dentro
+$02914A,$029153,10,code,
+$029154,$02915B,8,table,
+$02915C,$029313,440,code,
+$029314,$02945F,332,unknown,3 referencia(s) de codigo apontam para dentro
+$029460,$029499,58,code,
+$02949A,$029511,120,unknown,1 referencia(s) de codigo apontam para dentro
+$029512,$029627,278,code,
+$029628,$029721,250,unknown,1 referencia(s) de codigo apontam para dentro
+$029722,$029785,100,table,
+$029786,$029AA9,804,code,
+$029AAA,$029AB9,16,unknown,2 referencia(s) de codigo apontam para dentro
+$029ABA,$029F5D,1188,code,
+$029F5E,$029F65,8,table,
+$029F66,$02A05D,248,code,
+$02A05E,$02A06F,18,table,
+$02A070,$02A279,522,code,
+$02A27A,$02A2A7,46,unknown,2 referencia(s) de codigo apontam para dentro
+$02A2A8,$02A325,126,code,
+$02A326,$02A32D,8,table,
+$02A32E,$02A5D1,676,code,
+$02A5D2,$02A67B,170,unknown,4 referencia(s) de codigo apontam para dentro
+$02A67C,$02A685,10,code,
+$02A686,$02A68D,8,table,
+$02A68E,$02A6FB,110,code,
+$02A6FC,$02A703,8,table,
+$02A704,$02A7AF,172,code,
+$02A7B0,$02A7CF,32,unknown,1 referencia(s) de codigo apontam para dentro
+$02A7D0,$02A8E5,278,code,
+$02A8E6,$036FFF,50970,unknown,2 referencia(s) de codigo apontam para dentro
+$037000,$037034,53,gfx_lz,
+$037035,$038FCF,8091,unknown,sem referencias diretas
+$038FD0,$03958F,1472,palette,
+$039590,$03DB99,17930,unknown,2 referencia(s) de codigo apontam para dentro
+$03DB9A,$03E85C,3267,gfx_lz,
+$03E85D,$03E85D,1,unknown,sem referencias diretas
+$03E85E,$03EC1A,957,gfx_lz,
+$03EC1B,$03EC1B,1,unknown,sem referencias diretas
+$03EC1C,$03ECB8,157,gfx_lz,
+$03ECB9,$03ECB9,1,unknown,sem referencias diretas
+$03ECBA,$03EDC0,263,gfx_lz,
+$03EDC1,$040449,5769,unknown,sem referencias diretas
+$04044A,$0406B0,615,gfx_lz,
+$0406B1,$0406B1,1,unknown,sem referencias diretas
+$0406B2,$041CF2,5697,gfx_lz,
+$041CF3,$041CF3,1,unknown,sem referencias diretas
+$041CF4,$042EB2,4543,gfx_lz,
+$042EB3,$042EB3,1,unknown,sem referencias diretas
+$042EB4,$043F8A,4311,gfx_lz,
+$043F8B,$043F8B,1,unknown,sem referencias diretas
+$043F8C,$0440EC,353,gfx_lz,
+$0440ED,$0440ED,1,unknown,sem referencias diretas
+$0440EE,$04411A,45,gfx_lz,
+$04411B,$04411B,1,unknown,sem referencias diretas
+$04411C,$044332,535,gfx_lz,
+$044333,$044333,1,unknown,sem referencias diretas
+$044334,$045326,4083,gfx_lz,
+$045327,$045327,1,unknown,sem referencias diretas
+$045328,$046454,4397,gfx_lz,
+$046455,$046455,1,unknown,sem referencias diretas
+$046456,$04744C,4087,gfx_lz,
+$04744D,$04744D,1,unknown,sem referencias diretas
+$04744E,$047E0E,2497,gfx_lz,
+$047E0F,$047E0F,1,unknown,sem referencias diretas
+$047E10,$048016,519,gfx_lz,
+$048017,$048053,61,unknown,1 referencia(s) de codigo apontam para dentro
+$048054,$0480F5,162,gfx_lz,
+$0480F6,$04945D,4968,unknown,sem referencias diretas
+$04945E,$04A180,3363,gfx_lz,
+$04A181,$04A181,1,unknown,sem referencias diretas
+$04A182,$04B2BC,4411,gfx_lz,
+$04B2BD,$04B2BD,1,unknown,sem referencias diretas
+$04B2BE,$04BD32,2677,gfx_lz,
+$04BD33,$04BD33,1,unknown,sem referencias diretas
+$04BD34,$04BF9E,619,gfx_lz,
+$04BF9F,$04DE07,7785,unknown,1 referencia(s) de codigo apontam para dentro
+$04DE08,$04E259,1106,gfx_lz,
+$04E25A,$04F539,4832,unknown,sem referencias diretas
+$04F53A,$053037,15102,gfx_lz,
+$053038,$05471D,5862,unknown,1 referencia(s) de codigo apontam para dentro
+$05471E,$055BA6,5257,gfx_lz,
+$055BA7,$055BA7,1,unknown,sem referencias diretas
+$055BA8,$056EB6,4879,gfx_lz,
+$056EB7,$056EB7,1,unknown,sem referencias diretas
+$056EB8,$057466,1455,gfx_lz,
+$057467,$0587B3,4941,unknown,sem referencias diretas
+$0587B4,$059E8A,5847,gfx_lz,
+$059E8B,$059E8B,1,unknown,sem referencias diretas
+$059E8C,$05AFFC,4465,gfx_lz,
+$05AFFD,$05AFFD,1,unknown,sem referencias diretas
+$05AFFE,$05B3AF,946,gfx_lz,
+$05B3B0,$05C765,5046,unknown,sem referencias diretas
+$05C766,$05F498,11571,gfx_lz,
+$05F499,$05F499,1,unknown,sem referencias diretas
+$05F49A,$05FABA,1569,gfx_lz,
+$05FABB,$060005,1355,unknown,sem referencias diretas
+$060006,$06017B,374,gfx_lz,
+$06017C,$060F49,3534,unknown,sem referencias diretas
+$060F4A,$061E22,3801,gfx_lz,
+$061E23,$061E23,1,unknown,sem referencias diretas
+$061E24,$064108,8933,gfx_lz,
+$064109,$064109,1,unknown,sem referencias diretas
+$06410A,$064609,1280,gfx_lz,
+$06460A,$06612B,6946,unknown,1 referencia(s) de codigo apontam para dentro
+$06612C,$06665B,1328,gfx_lz,
+$06665C,$067A6F,5140,unknown,sem referencias diretas
+$067A70,$06B30A,14491,gfx_lz,
+$06B30B,$06B473,361,unknown,sem referencias diretas
+$06B474,$06C16A,3319,gfx_lz,
+$06C16B,$06C16B,1,unknown,sem referencias diretas
+$06C16C,$06E40E,8867,gfx_lz,
+$06E40F,$06E40F,1,unknown,sem referencias diretas
+$06E410,$06EB4F,1856,gfx_lz,
+$06EB50,$08000D,70846,unknown,sem referencias diretas
+$08000E,$080113,262,gfx_lz,
+$080114,$099FFF,106220,unknown,sem referencias diretas
+$09A000,$0A7116,53527,gfx_lz,
+$0A7117,$0C0005,102127,unknown,1 referencia(s) de codigo apontam para dentro
+$0C0006,$0C002F,42,gfx_lz,
+$0C0030,$0CFFFF,65488,unknown,1 referencia(s) de codigo apontam para dentro
+$0D0000,$0D15D6,5591,gfx_lz,
+$0D15D7,$0D15D7,1,unknown,sem referencias diretas
+$0D15D8,$0D244C,3701,gfx_lz,
+$0D244D,$0D27CD,897,unknown,1 referencia(s) de codigo apontam para dentro
+$0D27CE,$0D3603,3638,gfx_lz,
+$0D3604,$0D3703,256,unknown,1 referencia(s) de codigo apontam para dentro
+$0D3704,$0D42DE,3035,gfx_lz,
+$0D42DF,$0D42DF,1,unknown,sem referencias diretas
+$0D42E0,$0D462E,847,gfx_lz,
+$0D462F,$0D462F,1,unknown,sem referencias diretas
+$0D4630,$0D4C96,1639,gfx_lz,
+$0D4C97,$0D4C97,1,unknown,sem referencias diretas
+$0D4C98,$0D4D0C,117,gfx_lz,
+$0D4D0D,$0D4D0D,1,unknown,sem referencias diretas
+$0D4D0E,$0D4D2E,33,gfx_lz,
+$0D4D2F,$0D4D2F,1,unknown,sem referencias diretas
+$0D4D30,$0D5398,1641,gfx_lz,
+$0D5399,$0D5399,1,unknown,sem referencias diretas
+$0D539A,$0D822A,11921,gfx_lz,
+$0D822B,$0D822B,1,unknown,sem referencias diretas
+$0D822C,$0D8887,1628,gfx_lz,
+$0D8888,$0D8A07,384,unknown,2 referencia(s) de codigo apontam para dentro
+$0D8A08,$0D8D56,847,gfx_lz,
+$0D8D57,$0D8D57,1,unknown,sem referencias diretas
+$0D8D58,$0D8F12,443,gfx_lz,
+$0D8F13,$0DA6E5,6099,unknown,sem referencias diretas
+$0DA6E6,$0DA792,173,gfx_lz,
+$0DA793,$0DA793,1,unknown,sem referencias diretas
+$0DA794,$0DAA4C,697,gfx_lz,
+$0DAA4D,$0DC829,7645,unknown,3 referencia(s) de codigo apontam para dentro
+$0DC82A,$0DCFDD,1972,gfx_lz,
+$0DCFDE,$0DD493,1206,unknown,5 referencia(s) de codigo apontam para dentro
+$0DD494,$0DD4FE,107,gfx_lz,
+$0DD4FF,$0DD4FF,1,unknown,sem referencias diretas
+$0DD500,$0DD584,133,gfx_lz,
+$0DD585,$0DD585,1,unknown,sem referencias diretas
+$0DD586,$0DF49A,7957,gfx_lz,
+$0DF49B,$0DF49B,1,unknown,sem referencias diretas
+$0DF49C,$0DFCEC,2129,gfx_lz,
+$0DFCED,$0DFCED,1,unknown,sem referencias diretas
+$0DFCEE,$0DFEFA,525,gfx_lz,
+$0DFEFB,$0E0BAF,3253,unknown,sem referencias diretas
+$0E0BB0,$0E0EC4,789,gfx_lz,
+$0E0EC5,$0E4FFF,16699,unknown,sem referencias diretas
+$0E5000,$0E5005,6,code,
+$0E5006,$0E500B,6,unknown,sem referencias diretas
+$0E500C,$0E501D,18,code,
+$0E501E,$0E5041,36,unknown,sem referencias diretas
+$0E5042,$0E520F,462,code,
+$0E5210,$0FFFFF,110064,unknown,sem referencias diretas

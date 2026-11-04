@@ -1,0 +1,2 @@
+address,jump_site,kind,index_source,name,notes
+$0005CE,$0005DA,inline_offset16,d0 (tipicamente $FFFB06),SubStateDispatch,"Dobra d0, fica com o byte baixo, desempilha o endereco de retorno em a0 (a base da tabela), le em d1 o offset em a0 + d0 e salta para a0 + d1. A tabela fica inline logo apos o jsr: words de offset de 16 bits com sinal, relativas a base da tabela. O jsr NAO retorna para a instrucao seguinte. jump_site e' o jmp indireto interno ao proprio despachante: e' indireto por construcao e nao deve ser contado como pendencia."

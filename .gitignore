@@ -1,0 +1,36 @@
+# The ROM. Yours, not ours, and never committed. See LEGAL.md.
+*.bin
+*.smd
+*.gen
+
+# NOT "*.md".
+#
+# ".md" is also a Mega Drive ROM extension, so blocking it looks right — and it
+# was here, with an exception list for the documentation. The exception list was
+# immediately incomplete: CONTRIBUTING.md was silently ignored the moment it was
+# written, and git said nothing until an add failed.
+#
+# A rule whose exception list has to track every documentation file will be wrong
+# again. Markdown collides with it every time; a .md ROM is rare. The real
+# barrier is elsewhere: tools/preparar_publico.py refuses binary extensions and
+# anything over 1 MB, and .bin covers the format this project actually needs.
+
+# Everything the build produces. This is where the ROM-derived C lives, which
+# is precisely why none of it is committed.
+build/
+
+# Generated headers: the ROM identity comes from analysis/rom-baseline.json,
+# the build version comes from git. Committing copies would create the silent
+# divergence this project spends a lot of effort avoiding.
+runtime/rom_baseline.h
+runtime/versao.h
+
+# Runtime droppings from a development build.
+*.log
+*.png
+*.wav
+tinytoon
+tinytoon.exe
+
+__pycache__/
+*.pyc
