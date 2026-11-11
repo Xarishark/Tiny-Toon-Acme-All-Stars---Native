@@ -1,5 +1,7 @@
 # Tiny Toon Adventures: ACME All-Stars — Native PC Port
 
+[![Get it on RecompLauncher](https://recomplauncher.com/assets/press/launcher/badge-dark.svg)](https://recomplauncher.com/game/tiny-toon-acme-all-stars-native)
+
 A static recompilation of the Mega Drive / Genesis game (Konami, 1994) into C,
 running on a hand-written Mega Drive runtime.
 
